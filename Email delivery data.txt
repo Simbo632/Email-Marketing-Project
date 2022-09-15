@@ -1,0 +1,2658 @@
+ID/Date/Subject/Status/Tags/Subaccount/Opens/Clicks/Bounce Detail
+46203/42327,4434837963/Coffee next week?/sent///4/1/
+46203/42345,4710069444/Coffee next week?/sent///0/0/
+7448/42275,3824884259/Aylin, digital content strategy - brief chat/sent///10/0/
+7448/42318,6209953704/Coffee next week?/sent///0/0/
+16461/42299,3617939815/Digital content strategy - brief chat/sent///1/0/
+16461/42318,6210185185/Coffee next week?/sent///0/0/
+19755/42299,3620717593/Digital content strategy - brief chat/sent///0/0/
+19755/42318,6210648148/Coffee next week?/sent///0/0/
+9355/42276,3547685185/Angela, digital content strategy - brief chat/sent///0/0/
+9355/42318,621087963/Coffee next week?/sent///0/0/
+19746/42299,3618055556/Digital content strategy - brief chat/sent///0/0/
+19746/42318,6211111111/Coffee next week?/sent///0/0/
+23427/42305,4141319444/Digital content strategy - brief chat/sent///0/0/
+23427/42318,6211226852/Coffee next week?/sent///0/0/
+19449/42299,3620833333/Digital content strategy - brief chat/sent///0/0/
+19449/42318,6211458333/Coffee next week?/sent///0/0/
+35311/42317,4264814815/Coffee next week?/sent///0/0/
+35311/42345,4678472222/Coffee next week?/sent///0/0/
+44708/42325,3969791667/Coffee next week?/sent///1/0/
+44708/42345,4701157407/Coffee next week?/sent///1/0/
+43357/42324,6230671296/Coffee next week?/sent///1/0/
+43357/42324,6237037037/Coffee next week?/sent///1/0/
+44733/42325,3969907407/Coffee next week?/sent///0/0/
+44733/42345,4702893519/Coffee next week?/sent///0/0/
+44803/42325,3970023148/Coffee next week?/sent///1/0/
+44803/42345,4705555556/Coffee next week?/sent///2/0/
+4234/42270,4098032407/Adam, digital content strategy - brief chat/sent///1/0/
+4234/42318,6211574074/Coffee next week?/sent///3/0/
+43394/42324,6234375/Coffee next week?/sent///1/0/
+43394/42324,6240856481/Coffee next week?/sent///9/0/
+43394/42349,506087963/Coffee next week?/sent///1/0/
+43394/42349,5119444444/Coffee next week?/sent///5/0/
+14102/42299,3618055556/Digital content strategy - brief chat/sent///0/0/
+14102/42318,6211921296/Coffee next week?/sent///0/0/
+41223/42320,511400463/Coffee next week?/sent///0/0/
+17906/42298,3674189815/Digital content strategy - brief chat/sent///0/0/
+17906/42318,6212037037/Coffee next week?/sent///0/0/
+15498/42292,3850231481/Digital content strategy - brief chat/sent///0/0/
+15498/42318,6212152778/Coffee next week?/sent///2/0/
+9116/42279,5121412037/Adrian, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9116/42318,6212384259/Coffee next week?/sent///0/0/
+6570/42276,3547453704/Adrian, digital content strategy - brief chat/sent///1/0/
+6570/42318,6212615741/Coffee next week?/sent///1/0/
+23683/42305,4139930556/Digital content strategy - brief chat/sent///0/0/
+23683/42318,6212847222/Coffee next week?/sent///0/0/
+44730/42325,3965625/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+13296/42298,3674189815/Digital content strategy - brief chat/sent///2/0/
+13296/42318,6212962963/Coffee next week?/sent///0/0/
+54270/42348,373599537/Coffee next week?/sent///0/0/
+26384/42310,619537037/Digital content strategy - brief chat/sent///0/0/
+26384/42345,466875/Coffee next week?/sent///0/0/
+9187/42279,5122685185/Alan, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9187/42318,6213078703/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+41272/42320,5105092593/Coffee next week?/sent///0/0/
+41272/42345,4694328704/Coffee next week?/sent///0/0/
+41272/42348,3754282407/Coffee next week?/sent///0/0/
+43494/42324,6232291667/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+43494/42324,6238657407/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+41396/42324,6233912037/Coffee next week?/sent///2/0/
+41396/42324,6240277778/Coffee next week?/sent///20/0/
+41396/42348,3740509259/Coffee next week?/sent///25/0/
+14590/42291,3786805556/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+14590/42318,6213194444/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+37224/42317,4262268519/Coffee next week?/sent///2/0/
+37224/42345,4685069444/Coffee next week?/sent///0/0/
+44808/42325,3970138889/Coffee next week?/sent///4/0/
+9399/42279,5125/Alex, digital content strategy - brief chat/sent///0/0/
+9399/42318,6213425926/Coffee next week?/sent///0/0/
+24870/42306,4086342593/Digital content strategy - brief chat/sent///0/0/
+24870/42318,6213541667/Coffee next week?/sent///0/0/
+37148/42317,4260185185/Coffee next week?/sent///0/0/
+37148/42345,4683101852/Coffee next week?/sent///0/0/
+54862/42348,3746759259/Coffee next week?/bounced///0/0/smtp;550 5.1.1 <Alexander.Smith@gamesys.co.uk>: Recipient address rejected: User unknown in relay recipient table
+7967/42275,3825/Alexandra, digital content strategy - brief chat/sent///1/0/
+7967/42318,6213657407/Coffee next week?/sent///10/0/
+23635/42305,4144212963/Digital content strategy - brief chat/sent///0/0/
+23635/42318,6213888889/Coffee next week?/sent///0/0/
+35422/42317,4267592593/Coffee next week?/sent///1/0/
+35422/42345,4680092593/Coffee next week?/sent///13/0/
+41283/42320,5105324074/Coffee next week?/sent///0/0/
+41283/42345,4661921296/Coffee next week?/sent///0/0/
+33957/42319,4562152777/Coffee next week?/sent///0/0/
+33957/42319,4568171296/Coffee next week?/sent///0/0/
+15256/42297,3565046296/Digital content strategy - brief chat/sent///0/0/
+15256/42318,621412037/Coffee next week?/sent///0/0/
+59048/42349,5061111111/Coffee next week?/sent///0/0/
+59048/42349,5119560185/Coffee next week?/sent///0/0/
+14665/42291,3784143518/Digital content strategy - brief chat/sent///0/0/
+14665/42318,6214467593/Coffee next week?/sent///0/0/
+44601/42325,3957175926/Coffee next week?/sent///0/0/
+44601/42345,4695949074/Coffee next week?/sent///0/0/
+7558/42275,382511574/Amanda, digital content strategy - brief chat/sent///2/1/
+7558/42318,6214583333/Coffee next week?/sent///0/0/
+17940/42298,367337963/Digital content strategy - brief chat/sent///0/0/
+17940/42318,6214814815/Coffee next week?/sent///0/0/
+62726/42352,3505208333/Content meet early Jan?/sent///0/0/
+21996/42304,424224537/Digital content strategy - brief chat/sent///0/0/
+21996/42318,6214930556/Coffee next week?/sent///0/0/
+9263/42279,5123611111/Amanda, digital content strategy - brief chat/sent///0/0/
+9263/42310,6202430556/Digital content strategy - brief chat/sent///0/0/
+9263/42318,6215046296/Coffee next week?/sent///0/0/
+44689/42325,3957291667/Coffee next week?/sent///7/0/
+44689/42345,4700347222/Coffee next week?/sent///0/0/
+44689/42352,3502314814/Content meet early Jan?/sent///0/0/
+53597/42348,3734375/Coffee next week?/sent///0/0/
+62362/42352,3502430556/Content meet early Jan?/sent///2/0/
+5746/42276,3546759259/Amber, digital content strategy - brief chat/sent///5/0/
+5746/42318,6215393519/Coffee next week?/sent///1/0/
+37137/42348,3750231481/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Ami.Randhawa@oliver.agency]: Recipient address rejected: Access denied
+4608/42270,4098611111/Amin, digital content strategy - brief chat/sent///0/0/
+4608/42318,6216898148/Coffee next week?/sent///15/0/
+54698/42348,3742708333/Coffee next week?/sent///0/0/
+58954/42349,5061226852/Coffee next week?/sent///3/0/
+58954/42349,5119675926/Coffee next week?/sent///5/0/
+35559/42319,4562615741/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+35559/42319,4568518518/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+23464/42305,414224537/Digital content strategy - brief chat/sent///0/0/
+23464/42318,621712963/Coffee next week?/sent///0/0/
+62064/42352,3500115741/Content meet early Jan?/sent///0/0/
+54824/42348,3746296296/Coffee next week?/sent///0/0/
+43440/42324,6235069444/Coffee next week?/sent///3/0/
+43440/42324,6241550926/Coffee next week?/sent///1/3/
+43440/42349,5056712963/Coffee next week?/sent///3/0/
+43440/42349,5115393518/Coffee next week?/sent///1/0/
+41280/42352,3503587963/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+41379/42324,6229976852/Coffee next week?/sent///0/0/
+41379/42324,6236458333/Coffee next week?/sent///0/0/
+41379/42348,3751967593/Coffee next week?/sent///0/0/
+2453/42276,3546527777/Andrea, digital content strategy - brief chat/sent///0/0/
+2453/42291,3786574074/Digital content strategy - brief chat/sent///1/0/
+2453/42318,6217476852/Coffee next week?/sent///1/0/
+9444/42279,5125462963/Andres, digital content strategy - brief chat/sent///0/0/
+9444/42318,6217824074/Coffee next week?/sent///0/0/
+41315/42320,511412037/Coffee next week?/sent///1/0/
+41315/42345,4695486111/Coffee next week?/sent///1/0/
+41315/42348,3752893519/Coffee next week?/sent///1/0/
+15548/42292,3850347222/Digital content strategy - brief chat/sent///5/1/
+15548/42318,6217939815/Coffee next week?/sent///0/0/
+53581/42348,3733101852/Coffee next week?/sent///1/0/
+9275/42279,5123842593/Andrew, digital content strategy - brief chat/sent///1/0/
+9275/42318,6218287037/Coffee next week?/sent///7/0/
+41286/42320,5105555556/Coffee next week?/sent///2/1/
+41286/42345,4694560185/Coffee next week?/sent///1/0/
+41286/42349,5051967593/Coffee next week?/sent///1/0/
+41286/42349,5112152778/Coffee next week?/sent///1/0/
+3935/42270,4098611111/Andrew, digital content strategy - brief chat/sent///1/0/
+3935/42318,6218518519/Coffee next week?/sent///1/0/
+17644/42297,3568287037/Digital content strategy - brief chat/sent///2/0/
+17644/42318,6218865741/Coffee next week?/sent///0/0/
+53621/42348,3735300926/Coffee next week?/sent///3/0/
+9110/42279,5121064815/Andrew, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+9110/42318,6218981482/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+62975/42352,3512731481/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 <Andrew@monster.com>... User unknown
+24893/42306,4082523148/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.4.1 [Andy.Blatchford@microsoft.com]: Recipient address rejected: Access denied
+24893/42318,6219791667/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Andy.Blatchford@microsoft.com]: Recipient address rejected: Access denied
+17632/42297,3566782407/Digital content strategy - brief chat/sent///0/0/
+17632/42318,6219907407/Coffee next week?/sent///5/0/
+5024/42270,4098726852/Andy, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+5024/42318,6220138889/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+43355/42324,6230555556/Coffee next week?/sent///0/0/
+43355/42324,6236921296/Coffee next week?/sent///0/0/
+9236/42279,512337963/Andy, digital content strategy - brief chat/sent///15/0/
+9236/42310,6201157407/Digital content strategy - brief chat/sent///0/0/
+9236/42318,622037037/Coffee next week?/sent///0/0/
+34210/42319,4558333333/Coffee next week?/sent///1/0/
+34210/42319,4565162037/Coffee next week?/sent///1/0/
+43487/42324,6235532407/Coffee next week?/sent///0/0/
+43487/42324,6242013889/Coffee next week?/sent///0/0/
+43487/42349,5061458333/Coffee next week?/sent///0/0/
+43487/42349,5119907407/Coffee next week?/sent///0/0/
+44817/42325,397025463/Coffee next week?/sent///0/0/
+44817/42345,4706481481/Coffee next week?/sent///0/0/
+15740/42292,3850462963/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 User Unknown
+15740/42318,6220486111/Coffee next week?/bounced///0/0/smtp;550 5.1.1 User Unknown
+59036/42349,5061689815/Coffee next week?/sent///0/0/
+59036/42349,5120023148/Coffee next week?/sent///0/0/
+14481/42291,3783796296/Digital content strategy - brief chat/sent///0/0/
+14481/42318,6220601852/Coffee next week?/sent///0/0/
+4940/42270,4098726852/Anja, digital content strategy - brief chat/sent///0/0/
+4940/42318,6220833333/Coffee next week?/sent///1/0/
+31718/42319,455625/Coffee next week?/sent///0/0/
+31718/42319,4563541667/Coffee next week?/sent///4/0/
+14032/42291,3787037037/Digital content strategy - brief chat/sent///1/0/
+14032/42318,6221064815/Coffee next week?/sent///2/0/
+33992/42319,4562384259/Coffee next week?/sent///0/0/
+33992/42319,4568287037/Coffee next week?/sent///0/0/
+14677/42290,3590625/Digital content strategy - brief chat/sent///0/0/
+14677/42318,6221180556/Coffee next week?/sent///1/0/
+9135/42279,5121990741/Annette, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9135/42310,6195486111/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9135/42318,6221296296/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+23278/42305,4144560185/Digital content strategy - brief chat/sent///0/0/
+23278/42318,6221643519/Coffee next week?/sent///0/0/
+24935/42306,4080208333/Digital content strategy - brief chat/sent///0/0/
+24935/42318,6221759259/Coffee next week?/sent///1/0/
+9224/42279,5123148148/Antony, digital content strategy - brief chat/sent///0/0/
+9224/42318,6221875/Coffee next week?/sent///1/0/
+18526/42298,3674305556/Digital content strategy - brief chat/sent///1/0/
+18526/42318,6221990741/Coffee next week?/sent///1/0/
+54530/42348,3736574074/Coffee next week?/bounced///0/0/smtp;550 Invalid recipient <APotter@saintsfc.co.uk> (#5.1.1)
+18507/42298,3674421296/Digital content strategy - brief chat/sent///3/1/
+18507/42318,6222106482/Coffee next week?/sent///4/0/
+9393/42276,3547916667/Arnd, digital content strategy - brief chat/sent///0/0/
+9393/42318,6222453704/Coffee next week?/sent///0/0/
+3989/42270,4098842593/Arnoud, digital content strategy - brief chat/sent///0/0/
+3989/42318,6223032407/Coffee next week?/sent///0/0/
+29185/42319,4559837963/Coffee next week?/sent///1/0/
+29185/42319,4566435185/Coffee next week?/sent///1/0/
+5116/42270,4098842593/Anna, digital content strategy - brief chat/sent///1/0/
+5116/42318,6223263889/Coffee next week?/sent///1/0/
+46631/42327,4434953704/Coffee next week?/sent///1/0/
+46631/42345,4712384259/Coffee next week?/sent///2/1/
+46167/42327,4435069444/Coffee next week?/sent///3/1/
+46167/42345,4709259259/Coffee next week?/sent///3/2/
+41380/42324,6233680556/Coffee next week?/sent///0/0/
+41380/42324,6240046296/Coffee next week?/sent///0/0/
+41380/42348,3749884259/Coffee next week?/sent///1/0/
+35887/42319,4557175926/Coffee next week?/sent///0/0/
+35887/42319,4564351852/Coffee next week?/sent///0/0/
+40815/42320,5114236111/Coffee next week?/sent///0/0/
+40815/42345,4689583333/Coffee next week?/sent///0/0/
+40815/42348,3745717593/Coffee next week?/sent///0/0/
+59470/42349,5061805556/Coffee next week?/sent///3/0/
+59470/42349,5120138889/Coffee next week?/sent///1/0/
+53563/42348,3732638889/Coffee next week?/sent///2/0/
+2196/42268,4022569444/Alexandra, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+2196/42318,622349537/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+62349/42352,3510069444/Content meet early Jan?/sent///1/2/
+9199/42279,5123032407/Barry, digital content strategy - brief chat/sent///1/0/
+9199/42318,6223611111/Coffee next week?/sent///1/0/
+9165/42279,5122106482/Barry, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9165/42318,6223842593/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+34008/42319,4558680556/Coffee next week?/sent///1/0/
+34008/42319,4565393518/Coffee next week?/sent///1/0/
+55035/42348,3748958333/Coffee next week?/sent///0/0/
+53591/42348,3734027778/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+5160/42270,4098958333/Ben, digital content strategy - brief chat/sent///24/0/
+24939/42306,408599537/Digital content strategy - brief chat/sent///0/0/
+24939/42318,6224074074/Coffee next week?/sent///0/0/
+44804/42325,397037037/Coffee next week?/sent///2/0/
+44804/42345,4705902778/Coffee next week?/sent///2/1/
+41381/42324,6230092593/Coffee next week?/sent///3/0/
+41381/42324,6236574074/Coffee next week?/sent///0/0/
+41260/42320,5114351852/Coffee next week?/sent///0/0/
+41260/42345,4693981481/Coffee next week?/sent///4/2/
+41260/42348,3755208333/Coffee next week?/sent///1/0/
+8077/42275,382511574/Ben, digital content strategy - brief chat/sent///0/0/
+8077/42318,6224305556/Coffee next week?/sent///0/0/
+15566/42292,3850578704/Digital content strategy - brief chat/sent///1/1/
+15566/42318,6224537037/Coffee next week?/sent///0/0/
+4245/42270,4098958333/Benjamin, digital content strategy - brief chat/sent///0/0/
+4245/42318,6224768519/Coffee next week?/sent///0/0/
+16312/42293,3648958333/Digital content strategy - brief chat/sent///0/0/
+16312/42318,6225/Coffee next week?/sent///1/0/
+24904/42306,4080902778/Digital content strategy - brief chat/sent///1/0/
+24904/42318,6225231482/Coffee next week?/sent///0/0/
+43381/42324,6231018519/Coffee next week?/sent///0/0/
+43381/42324,6237384259/Coffee next week?/sent///0/0/
+43381/42349,5052199074/Coffee next week?/sent///0/0/
+43381/42349,5112268518/Coffee next week?/sent///3/0/
+4102/42270,4099074074/Beth, digital content strategy - brief chat/sent///0/0/
+4102/42318,6225462963/Coffee next week?/sent///0/0/
+4102/42327,4435185185/Coffee next week?/sent///0/0/
+47110/42327,4435416667/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RCP-P1 http://postmaster.facebook.com/response_codes?ip=198.2.135.2#rcp Recipient address does not exist
+43371/42324,6232638889/Coffee next week?/soft-bounced///0/0/
+43371/42324,623912037/Coffee next week?/soft-bounced///0/0/
+4153/42270,4099074074/Bhavan, digital content strategy - brief chat/sent///2/0/
+4153/42318,6225810185/Coffee next week?/sent///1/0/
+9332/42276,3547569444/Bhotesh, digital content strategy - brief chat/sent///0/0/
+9332/42310,6203009259/Digital content strategy - brief chat/sent///1/1/
+9332/42318,6225925926/Coffee next week?/sent///1/0/
+9114/42279,5121296296/Bianca, digital content strategy - brief chat/bounced///0/0/smtp;550 Invalid recipient <Bianca.Huttner@practicus.co.uk> (#5.1.1)
+9114/42318,6226041667/Coffee next week?/bounced///0/0/smtp;550 Invalid recipient <Bianca.Huttner@practicus.co.uk> (#5.1.1)
+17478/42297,3568287037/Digital content strategy - brief chat/sent///6/0/
+26368/42317,4262384259/Coffee next week?/sent///2/0/
+26368/42345,4686226852/Coffee next week?/sent///1/0/
+44792/42325,3970601852/Coffee next week?/sent///1/0/
+44792/42345,4704861111/Coffee next week?/sent///1/0/
+9245/42279,512349537/Ben, digital content strategy - brief chat/sent///0/0/
+9245/42318,6226273148/Coffee next week?/sent///0/0/
+9373/42279,5124768519/Bob, digital content strategy - brief chat/sent///0/0/
+9373/42318,6227314815/Coffee next week?/sent///0/0/
+9166/42279,5122222222/Bobbie, digital content strategy - brief chat/sent///0/0/
+9166/42310,6203125/Digital content strategy - brief chat/sent///0/0/
+9166/42318,6227430556/Coffee next week?/sent///0/0/
+14468/42291,3784259259/Digital content strategy - brief chat/sent///0/0/
+14468/42318,6227546296/Coffee next week?/sent///0/0/
+14666/42291,3786921296/Digital content strategy - brief chat/sent///0/0/
+14666/42318,6227777778/Coffee next week?/sent///0/0/
+14285/42290,3587037037/Digital content strategy - brief chat/sent///1/1/
+14285/42318,6227893519/Coffee next week?/sent///0/0/
+17768/42299,3618171296/Digital content strategy - brief chat/sent///1/0/
+17768/42318,6228009259/Coffee next week?/sent///12/0/
+43442/42324,6235185185/Coffee next week?/sent///0/0/
+43442/42324,6241666667/Coffee next week?/sent///0/0/
+43442/42349,5061921296/Coffee next week?/sent///0/0/
+43442/42349,512025463/Coffee next week?/sent///0/0/
+9348/42279,5124537037/Brian, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9348/42318,6228240741/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+46729/42327,4435648148/Coffee next week?/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 f130si5464656ywf.419 - gsmtp
+38876/42320,5105671296/Coffee next week?/sent///0/0/
+38876/42345,4687731481/Coffee next week?/sent///0/0/
+38876/42348,373900463/Coffee next week?/sent///0/0/
+35486/42317,4267708333/Coffee next week?/sent///11/0/
+24895/42306,40875/Digital content strategy - brief chat/sent///11/0/
+24895/42318,6228356482/Coffee next week?/sent///7/0/
+19472/42299,3620949074/Digital content strategy - brief chat/sent///0/0/
+19472/42318,6228819444/Coffee next week?/sent///0/0/
+46722/42327,4435763889/Coffee next week?/sent///0/0/
+46722/42345,471400463/Coffee next week?/sent///0/0/
+35162/42317,4264930556/Coffee next week?/sent///1/0/
+35162/42345,4675810185/Coffee next week?/sent///1/0/
+4023/42270,4099189815/Caitriona, digital content strategy - brief chat/sent///0/0/
+4023/42318,6229050926/Coffee next week?/sent///0/0/
+47025/42327,4435763889/Coffee next week?/sent///0/0/
+47025/42345,4719097222/Coffee next week?/sent///1/0/
+62858/42352,3502893519/Content meet early Jan?/sent///1/0/
+59436/42349,5052430556/Coffee next week?/sent///1/0/
+59436/42349,5112384259/Coffee next week?/sent///1/0/
+2567/42268,4022800926/Cara, digital content strategy - brief chat/sent///0/0/
+2567/42318,6229282407/Coffee next week?/sent///0/0/
+26308/42310,6203240741/Digital content strategy - brief chat/sent///0/0/
+26308/42345,4667592593/Coffee next week?/sent///0/0/
+5010/42270,4099189815/Carine, digital content strategy - brief chat/sent///0/0/
+5010/42318,6229976852/Coffee next week?/sent///0/0/
+5010/42325,3970833333/Coffee next week?/sent///1/1/
+15281/42292,3850578704/Digital content strategy - brief chat/sent///0/0/
+15281/42318,6230092593/Coffee next week?/sent///0/0/
+47143/42327,443587963/Coffee next week?/sent///0/0/
+47143/42345,4721990741/Coffee next week?/sent///0/0/
+47143/42348,3731828704/Coffee next week?/sent///0/0/
+3736/42270,4099305556/Carlos, digital content strategy - brief chat/sent///4/0/
+3736/42290,3586921296/Digital content strategy - brief chat/sent///0/0/
+3736/42318,6230208333/Coffee next week?/sent///2/0/
+9092/42279,5120601852/Carly, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9092/42318,6230439815/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+41295/42320,5105902778/Coffee next week?/sent///0/0/
+23292/42305,4144328704/Digital content strategy - brief chat/sent///0/0/
+23292/42318,6230787037/Coffee next week?/sent///0/0/
+53627/42348,3735416667/Coffee next week?/sent///0/0/
+5660/42276,3546643518/Caroline, digital content strategy - brief chat/sent///0/0/
+5660/42318,6231134259/Coffee next week?/sent///0/0/
+46643/42327,4436111111/Coffee next week?/sent///0/0/
+46643/42345,47125/Coffee next week?/sent///0/0/
+18584/42298,3674537037/Digital content strategy - brief chat/sent///0/0/
+18584/42318,6231365741/Coffee next week?/sent///0/0/
+4565/42270,4099305556/Stephanie, digital content strategy - brief chat/sent///0/0/
+4565/42318,6231828704/Coffee next week?/sent///0/0/
+26134/42310,6203587963/Digital content strategy - brief chat/sent///1/0/
+26134/42345,4665625/Coffee next week?/sent///1/0/
+47829/42348,3728935185/Coffee next week?/sent///0/0/
+47829/42348,3733217593/Coffee next week?/sent///0/0/
+37251/42317,4262384259/Coffee next week?/sent///14/1/
+62934/42352,3503472222/Content meet early Jan?/sent///0/0/
+15664/42292,3850694444/Digital content strategy - brief chat/sent///0/0/
+15664/42318,6231944444/Coffee next week?/sent///1/0/
+44607/42325,3958680556/Coffee next week?/sent///1/1/
+44607/42345,4696527778/Coffee next week?/sent///1/1/
+44607/42352,3499652778/Content meet early Jan?/sent///0/0/
+34121/42319,455775463/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+34121/42319,4564699074/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+55000/42348,3748148148/Coffee next week?/sent///0/0/
+4108/42270,4099421296/Chafic, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+4108/42318,6232291667/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+17453/42297,3569212963/Digital content strategy - brief chat/sent///0/0/
+17453/42318,6232407407/Coffee next week?/sent///0/0/
+2117/42276,3546412037/Marion, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+2117/42318,6232638889/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+24918/42306,4086226852/Digital content strategy - brief chat/sent///0/0/
+24918/42318,623287037/Coffee next week?/sent///0/0/
+14465/42317,4265046296/Coffee next week?/sent///8/0/
+14465/42345,4662962963/Coffee next week?/sent///4/0/
+24936/42306,4085648148/Digital content strategy - brief chat/sent///4/0/
+24936/42318,6232986111/Coffee next week?/sent///0/0/
+4464/42270,4099421296/Charles, digital content strategy - brief chat/sent///1/0/
+4464/42318,6233217593/Coffee next week?/sent///0/0/
+"18665/42298,367349537/Digital content strategy - brief chat/soft-bounced///0/0/smtp;554-5.2.2 mailbox full
+ 554 5.2.2 STOREDRV.Deliver.Exception:QuotaExceededException.MapiExceptionShutoffQuotaExceeded; Failed to process message due to a permanent exception with message Cannot open mailbox /o=THOMSONUK/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=TUWIGMMBX1/cn=Microsoft System Attendant. 16.55847:B0000000, 17.43559:0000000020010000000000006D00000000000000, 255.23226:00000000, 255.27962:FE000000, 255.17082:DD040000, 0.26937:00000000, 4.21921:DD040000, 255.27962:FA000000, 255.1494:0F010480, 255.26426:FE000000, 0.22086:0F010480, 0.25876:B0843D00, 4.7588:0F010480, 0.25840:02017100, 4.6564:0F010480, 0.56333:0300080E, 4.6372:05000780, 0.24916:B0841D0E, 4.6276:05000780, 4.5721:DD040000, 4.6489:DD040000, 0.34743:02019D0E, 4.2199:DD040000, 0.56415:40000730, 4.48223:DD040000, 4.17097:DD040000, 4.8620:DD040000, 255.1750:0F010480, 0.26849:0F010480, 255.21817:DD040000, 0.26297:00000000, 4.16585:DD040000, 0.32441:0F010480, 4.1706:DD040000, 0.24761:0F010480,!
+  4.20665:
+ DD040000, 0.25785:00000000, 4.29881:DD040000"
+"18665/42318,6233564815/Coffee next week?/soft-bounced///0/0/smtp;554-5.2.2 mailbox full
+ 554 5.2.2 STOREDRV.Deliver.Exception:QuotaExceededException.MapiExceptionShutoffQuotaExceeded; Failed to process message due to a permanent exception with message Cannot open mailbox /o=THOMSONUK/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=TUWIGMMBX1/cn=Microsoft System Attendant. 16.55847:B0000000, 17.43559:0000000020010000000000000000000000000000, 255.23226:00000000, 255.27962:FE000000, 255.17082:DD040000, 0.26937:00000000, 4.21921:DD040000, 255.27962:FA000000, 255.1494:FA000000, 255.26426:FE000000, 0.22086:EC030000, 0.25876:0F010480, 4.7588:0F010480, 0.25840:EC030000, 4.6564:0F010480, 0.56333:0F010480, 4.6372:05000780, 0.24916:0F010480, 4.6276:05000780, 4.5721:DD040000, 4.6489:DD040000, 0.34743:0201090E, 4.2199:DD040000, 0.56415:14004967, 4.48223:DD040000, 4.17097:DD040000, 4.8620:DD040000, 255.1750:0F010480, 0.26849:0F010480, 255.21817:DD040000, 0.26297:17010480, 4.16585:DD040000, 0.32441:0F010480, 4.1706:DD040000, 0.24761:0F010480,!
+  4.20665:
+ DD040000, 0.25785:0F010480, 4.29881:DD040000"
+26066/42310,6195601852/Digital content strategy - brief chat/sent///0/0/
+26066/42345,4665162037/Coffee next week?/sent///0/0/
+25404/42317,4260300926/Coffee next week?/sent///3/0/
+44740/42325,3970833333/Coffee next week?/sent///0/0/
+44740/42345,4703240741/Coffee next week?/sent///0/0/
+17931/42298,3674652778/Digital content strategy - brief chat/sent///0/0/
+17931/42318,6233680556/Coffee next week?/sent///1/0/
+54531/42348,3736805556/Coffee next week?/sent///0/0/
+7727/42275,3825231481/Cindy, digital content strategy - brief chat/sent///0/0/
+7727/42318,6233912037/Coffee next week?/sent///0/0/
+54971/42348,3747569444/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+44678/42325,3971064814/Coffee next week?/sent///1/0/
+44678/42345,469837963/Coffee next week?/sent///1/0/
+24840/42306,4080324074/Digital content strategy - brief chat/sent///0/0/
+24840/42318,6234027778/Coffee next week?/sent///1/0/
+9215/42279,5123148148/Chris, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9215/42318,6234143519/Coffee next week?/sent///0/0/
+19709/42299,3618287037/Digital content strategy - brief chat/sent///0/0/
+19709/42318,6235532407/Coffee next week?/sent///0/0/
+26559/42310,6203703704/Digital content strategy - brief chat/sent///17/1/
+26559/42345,4673611111/Coffee next week?/sent///2/0/
+59457/42349,5052546296/Coffee next week?/sent///0/0/
+59457/42349,51125/Coffee next week?/sent///0/0/
+59446/42349,5062037037/Coffee next week?/sent///1/2/
+59446/42349,5120486111/Coffee next week?/sent///0/0/
+44756/42325,3971180556/Coffee next week?/sent///3/0/
+44756/42345,4703587963/Coffee next week?/sent///1/0/
+41361/42324,6233449074/Coffee next week?/sent///1/0/
+41361/42324,6239699074/Coffee next week?/sent///1/0/
+35120/42317,4267824074/Coffee next week?/sent///7/0/
+41351/42324,622974537/Coffee next week?/sent///1/0/
+41351/42324,6236226852/Coffee next week?/sent///1/0/
+41351/42348,3753356481/Coffee next week?/sent///0/0/
+43433/42324,6231712963/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+43433/42324,6238078704/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9412/42279,5125231482/Chris, digital content strategy - brief chat/sent///0/0/
+9412/42318,6235648148/Coffee next week?/sent///0/0/
+26415/42310,6195717593/Digital content strategy - brief chat/sent///0/0/
+26415/42345,4669212963/Coffee next week?/sent///0/0/
+14287/42290,3588888889/Digital content strategy - brief chat/sent///0/0/
+14287/42318,6235763889/Coffee next week?/sent///0/0/
+4139/42270,4099537037/Christina, digital content strategy - brief chat/sent///1/0/
+4139/42318,623599537/Coffee next week?/sent///5/1/
+13230/42297,3566435185/Digital content strategy - brief chat/sent///0/0/
+13230/42318,6236111111/Coffee next week?/sent///0/0/
+17549/42297,3567708333/Digital content strategy - brief chat/sent///0/0/
+17549/42318,6236226852/Coffee next week?/sent///1/0/
+16418/42293,3649074074/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+16418/42318,6236458333/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+14207/42291,3785416667/Digital content strategy - brief chat/sent///0/0/
+14207/42318,6236805556/Coffee next week?/sent///1/1/
+26117/42310,6195949074/Digital content strategy - brief chat/soft-bounced///0/0/smtp;554 5.4.6 Hop count exceeded - possible mail loop
+26117/42345,4665509259/Coffee next week?/sent///0/0/
+35318/42317,4268055556/Coffee next week?/sent///0/0/
+35318/42345,4678819444/Coffee next week?/sent///1/0/
+22711/42305,4142013889/Digital content strategy - brief chat/sent///0/0/
+22711/42318,6236921296/Coffee next week?/sent///0/0/
+14085/42291,3783912037/Digital content strategy - brief chat/sent///25/2/
+7861/42275,3825231481/Chaitra, digital content strategy - brief chat/sent///2/0/
+7861/42306,4087268518/Digital content strategy - brief chat/sent///0/0/
+7861/42318,6237037037/Coffee next week?/sent///5/0/
+4937/42270,4099537037/Chantelle, digital content strategy - brief chat/sent///1/0/
+4937/42318,6237268519/Coffee next week?/sent///1/0/
+62309/42352,350150463/Content meet early Jan?/sent///0/0/
+3999/42270,4099652778/Claire, digital content strategy - brief chat/sent///0/0/
+3999/42293,3649074074/Digital content strategy - brief chat/sent///0/0/
+3999/42318,62375/Coffee next week?/sent///0/0/
+37259/42317,42625/Coffee next week?/sent///3/0/
+41267/42348,3753587963/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+15333/42292,3850810185/Digital content strategy - brief chat/sent///0/0/
+15333/42318,6237615741/Coffee next week?/sent///0/0/
+15298/42292,3850925926/Digital content strategy - brief chat/sent///0/0/
+15298/42318,6237731481/Coffee next week?/sent///0/0/
+23085/42305,4140277778/Digital content strategy - brief chat/sent///0/0/
+23085/42318,6237962963/Coffee next week?/sent///0/0/
+46459/42327,4436226852/Coffee next week?/bounced///0/0/smtp;550 Invalid recipient <Claire@bbc.co.uk> (#5.1.1)
+14074/42290,3586805556/Digital content strategy - brief chat/sent///0/0/
+14074/42318,6238078704/Coffee next week?/sent///0/0/
+41313/42320,5106018518/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+41313/42348,3752662037/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+48074/42348,372962963/Coffee next week?/sent///0/0/
+35410/42317,4268171296/Coffee next week?/sent///4/0/
+40703/42320,5114583333/Coffee next week?/sent///0/0/
+40703/42345,468900463/Coffee next week?/sent///0/0/
+41333/42320,5106134259/Coffee next week?/sent///1/0/
+41333/42345,4695833333/Coffee next week?/sent///2/0/
+62187/42352,3507291667/Content meet early Jan?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+19303/42299,3620949074/Digital content strategy - brief chat/sent///0/0/
+19303/42318,6238194444/Coffee next week?/sent///0/0/
+4587/42270,4099652778/Colleen, digital content strategy - brief chat/sent///0/0/
+4587/42305,4142592593/Digital content strategy - brief chat/sent///0/0/
+4587/42318,6238310185/Coffee next week?/sent///0/0/
+24837/42306,4084722222/Digital content strategy - brief chat/sent///6/0/
+24837/42318,6238541667/Coffee next week?/sent///4/0/
+41075/42320,5114699074/Coffee next week?/sent///0/0/
+41075/42345,4690509259/Coffee next week?/sent///0/0/
+41075/42348,3744097222/Coffee next week?/sent///1/0/
+62440/42352,3513541667/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+56377/42348,3752314815/Coffee next week?/sent///0/0/
+"4526/42270,4099768518/Craig, digital content strategy - brief chat/bounced///0/0/smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/answer/6596 e8si488933igx.22 - gsmtp
+
+--1941427AB75.1443001823/ofarelay05.hostedemail.com"
+"4526/42318,6238888889/Coffee next week?/bounced///0/0/smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/answer/6596 70si5200087iod.173 - gsmtp
+
+--A19C935FD25.1447167512/ofarelay04.hostedemail.com"
+41110/42320,5114814815/Coffee next week?/sent///7/0/
+41110/42345,4691435185/Coffee next week?/sent///0/0/
+41110/42348,3744212963/Coffee next week?/sent///0/0/
+26453/42310,6203819444/Digital content strategy - brief chat/sent///0/0/
+26453/42345,4669907407/Coffee next week?/sent///0/0/
+44802/42325,3958796296/Coffee next week?/sent///2/0/
+44802/42345,4705439815/Coffee next week?/sent///0/0/
+19594/42299,3618402778/Digital content strategy - brief chat/sent///0/0/
+19594/42318,6239583333/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+59438/42349,5062152778/Coffee next week?/sent///1/0/
+59438/42349,5120601852/Coffee next week?/sent///0/0/
+35517/42317,4268287037/Coffee next week?/sent///0/0/
+35517/42345,4681481481/Coffee next week?/sent///0/0/
+44745/42325,3971296296/Coffee next week?/sent///1/0/
+41367/42324,6232407407/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [CWood@vam.ac.uk]: Recipient address rejected: Access denied
+41367/42324,6238888889/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [CWood@vam.ac.uk]: Recipient address rejected: Access denied
+41367/42348,3751851852/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [CWood@vam.ac.uk]: Recipient address rejected: Access denied
+17925/42298,3674768519/Digital content strategy - brief chat/sent///5/1/
+17925/42318,6239930556/Coffee next week?/sent///0/0/
+7747/42275,3825347222/David, digital content strategy - brief chat/sent///1/0/
+7747/42318,6240393519/Coffee next week?/sent///4/1/
+46677/42327,4436342593/Coffee next week?/sent///1/0/
+46677/42345,4713194444/Coffee next week?/sent///3/0/
+19762/42299,3621064815/Digital content strategy - brief chat/sent///0/0/
+19762/42318,6241087963/Coffee next week?/sent///0/0/
+33947/42319,4558101852/Coffee next week?/sent///2/0/
+33947/42319,4565046296/Coffee next week?/sent///0/0/
+4077/42270,4099768518/Dale, digital content strategy - brief chat/sent///4/1/
+4077/42318,6241319444/Coffee next week?/sent///1/0/
+56101/42348,3749305556/Coffee next week?/sent///1/0/
+37197/42317,4261574074/Coffee next week?/sent///1/0/
+37197/42345,468449074/Coffee next week?/sent///1/0/
+41225/42320,510625/Coffee next week?/sent///0/0/
+41225/42345,4692476852/Coffee next week?/sent///1/0/
+41225/42348,3747337963/Coffee next week?/sent///1/0/
+43377/42324,6234259259/Coffee next week?/sent///0/0/
+43377/42324,6240740741/Coffee next week?/sent///0/0/
+13188/42291,3786921296/Digital content strategy - brief chat/sent///0/0/
+13188/42318,6241435185/Coffee next week?/sent///0/0/
+9091/42279,5120486111/Daniel, digital content strategy - brief chat/sent///7/3/
+41279/42320,5109375/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+14659/42290,358912037/Digital content strategy - brief chat/sent///1/0/
+14659/42318,6241550926/Coffee next week?/sent///1/0/
+13197/42297,3566319444/Digital content strategy - brief chat/sent///1/0/
+13197/42318,6241782407/Coffee next week?/sent///1/0/
+22737/42305,4143287037/Digital content strategy - brief chat/sent///0/0/
+22737/42318,6241898148/Coffee next week?/sent///1/0/
+35137/42317,4271875/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+4939/42270,4099884259/Danny, digital content strategy - brief chat/sent///8/0/
+41405/42324,6234143519/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+41405/42324,6240509259/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+41405/42349,5062268519/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+41405/42349,5120833333/Coffee next week?/rejected///0/0/
+18625/42298,3674884259/Digital content strategy - brief chat/sent///1/0/
+18625/42318,6242013889/Coffee next week?/sent///0/0/
+9346/42279,5124305556/Darrell, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9346/42318,624224537/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+36425/42319,4561689815/Coffee next week?/sent///0/0/
+36425/42319,4567824074/Coffee next week?/sent///0/0/
+53541/42348,3731597222/Coffee next week?/sent///1/0/
+8081/42275,3825462963/Darya, digital content strategy - brief chat/sent///0/0/
+8081/42318,6242824074/Coffee next week?/sent///0/0/
+44625/42325,3971412037/Coffee next week?/sent///0/0/
+44625/42345,4697685185/Coffee next week?/soft-bounced///0/0/smtp;550 5.2.1 The email account that you tried to reach is disabled. j90si19480723qga.6 - gsmtp
+23046/42305,4141666667/Digital content strategy - brief chat/sent///3/0/
+22903/42310,6196180556/Digital content strategy - brief chat/sent///0/0/
+22903/42345,4663773148/Coffee next week?/sent///0/0/
+19501/42299,3618518518/Digital content strategy - brief chat/sent///0/0/
+19501/42318,6242939815/Coffee next week?/sent///0/0/
+22014/42304,4242939815/Digital content strategy - brief chat/sent///7/1/
+22014/42318,6243171296/Coffee next week?/sent///10/1/
+18543/42298,3675/Digital content strategy - brief chat/sent///4/1/
+25933/42310,6196296296/Digital content strategy - brief chat/sent///0/0/
+25933/42345,466400463/Coffee next week?/sent///0/0/
+15480/42292,3851041667/Digital content strategy - brief chat/sent///0/0/
+15480/42318,6243518519/Coffee next week?/sent///7/0/
+19570/42299,3621180556/Digital content strategy - brief chat/sent///0/0/
+19570/42318,6243634259/Coffee next week?/sent///1/0/
+35520/42317,4271990741/Coffee next week?/sent///15/0/
+24416/42317,4261689815/Coffee next week?/sent///0/0/
+24416/42345,4683217593/Coffee next week?/sent///0/0/
+9144/42279,5122106482/David, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 t73si5279164ywe.6 - gsmtp
+9144/42318,624375/Coffee next week?/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 u76si1866482ywf.30 - gsmtp
+41363/42324,6229861111/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+41363/42324,6236342593/Coffee next week?/rejected///0/0/
+25013/42352,35/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9350/42276,3547685185/David, digital content strategy - brief chat/sent///2/0/
+9350/42299,3621296296/Digital content strategy - brief chat/sent///2/0/
+35471/42317,4272222222/Coffee next week?/sent///0/0/
+35471/42345,4681018519/Coffee next week?/sent///0/0/
+46607/42327,4436342593/Coffee next week?/sent///3/0/
+9414/42279,5125231482/Dawn, digital content strategy - brief chat/sent///0/0/
+1970/42268,4023148148/Daniel, digital content strategy - brief chat/sent///0/0/
+1970/42318,6243981481/Coffee next week?/sent///0/0/
+9314/42279,5124074074/Debbie, digital content strategy - brief chat/sent///0/0/
+9314/42318,6244097222/Coffee next week?/sent///0/0/
+26099/42310,6203935185/Digital content strategy - brief chat/sent///0/0/
+26099/42345,4665277778/Coffee next week?/sent///4/0/
+47130/42327,4436458333/Coffee next week?/sent///0/0/
+47130/42345,4721527778/Coffee next week?/sent///0/0/
+47107/42327,4436574074/Coffee next week?/sent///0/0/
+47107/42345,4661805556/Coffee next week?/sent///0/0/
+44823/42327,4436689815/Coffee next week?/sent///0/0/
+44823/42345,4706944444/Coffee next week?/sent///0/0/
+26195/42310,6196527778/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 <DeniseOakley@opentext.com>... User unknown
+26463/42310,6204050926/Digital content strategy - brief chat/sent///0/0/
+26463/42345,4670138889/Coffee next week?/sent///0/0/
+14582/42291,3786342593/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+14582/42318,6244328704/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+14342/42291,3786226852/Digital content strategy - brief chat/sent///0/0/
+14342/42318,6244328704/Coffee next week?/sent///0/0/
+37174/42317,4261805556/Coffee next week?/sent///0/0/
+37174/42345,4683680556/Coffee next week?/sent///0/0/
+17584/42297,3564467593/Digital content strategy - brief chat/sent///0/0/
+17584/42318,6244560185/Coffee next week?/sent///0/0/
+41339/42324,6233217593/Coffee next week?/sent///9/0/
+41339/42324,6239467593/Coffee next week?/sent///0/0/
+1992/42268,4023148148/Desiree, digital content strategy - brief chat/sent///4/0/
+1992/42290,3589583333/Digital content strategy - brief chat/sent///2/0/
+1992/42318,6244675926/Coffee next week?/sent///1/0/
+56310/42348,3750810185/Coffee next week?/sent///2/0/
+41162/42320,5115046296/Coffee next week?/sent///0/0/
+41162/42345,469212963/Coffee next week?/sent///0/0/
+44639/42325,3971527778/Coffee next week?/sent///0/0/
+44639/42345,4697916667/Coffee next week?/sent///0/0/
+46662/42327,4436805556/Coffee next week?/sent///1/0/
+46662/42345,4712962963/Coffee next week?/sent///1/2/
+35546/42317,4272337963/Coffee next week?/sent///0/0/
+35546/42345,4681944444/Coffee next week?/sent///1/0/
+62582/42352,3504513889/Content meet early Jan?/sent///0/0/
+13260/42299,3621412037/Digital content strategy - brief chat/sent///25/0/
+13260/42318,6244791667/Coffee next week?/sent///7/0/
+4005/42270,4099884259/Duncan, digital content strategy - brief chat/sent///0/0/
+4005/42318,624525463/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+45992/42327,4436921296/Coffee next week?/sent///1/0/
+45992/42345,4708449074/Coffee next week?/sent///2/0/
+41250/42320,5109953704/Coffee next week?/sent///0/0/
+41250/42345,4693518519/Coffee next week?/sent///0/0/
+41250/42348,3752546296/Coffee next week?/sent///0/0/
+17885/42298,3675115741/Digital content strategy - brief chat/sent///0/0/
+17885/42318,6245601852/Coffee next week?/sent///0/0/
+56305/42348,3750694444/Coffee next week?/sent///1/0/
+7631/42275,3825462963/Edmund, digital content strategy - brief chat/sent///1/0/
+7631/42318,6245833333/Coffee next week?/sent///4/0/
+24874/42306,4084837963/Digital content strategy - brief chat/sent///0/0/
+24874/42318,6246064815/Coffee next week?/sent///0/0/
+26301/42310,6196643518/Digital content strategy - brief chat/sent///0/0/
+26301/42345,466724537/Coffee next week?/sent///0/0/
+46114/42327,4436921296/Coffee next week?/sent///0/0/
+46114/42345,4709143518/Coffee next week?/sent///0/0/
+22686/42305,4143402778/Digital content strategy - brief chat/sent///1/0/
+22686/42318,6246180556/Coffee next week?/sent///7/1/
+46450/42327,4437037037/Coffee next week?/sent///0/0/
+46450/42345,4710763889/Coffee next week?/sent///0/0/
+35618/42319,4560416667/Coffee next week?/sent///1/0/
+35618/42319,4566666667/Coffee next week?/sent///1/0/
+9351/42279,5124652778/Elena, digital content strategy - brief chat/soft-bounced///0/0/smtp;550 5.2.1 The email account that you tried to reach is disabled. f184si5275908ywe.36 - gsmtp
+9351/42318,6246296296/Coffee next week?/soft-bounced///0/0/smtp;550 5.2.1 The email account that you tried to reach is disabled. r11si1852005ywg.179 - gsmtp
+9264/42279,5123726852/Elisabeth, digital content strategy - brief chat/sent///0/0/
+9264/42310,6204166667/Digital content strategy - brief chat/sent///0/0/
+9264/42318,6246412037/Coffee next week?/sent///0/0/
+54543/42348,3737037037/Coffee next week?/sent///4/0/
+16051/42317,4272453704/Coffee next week?/sent///1/0/
+16051/42345,4675347222/Coffee next week?/sent///1/0/
+41370/42324,6233449074/Coffee next week?/sent///1/0/
+41370/42324,6239814815/Coffee next week?/sent///0/0/
+41370/42348,3744907407/Coffee next week?/sent///1/0/
+46171/42327,4437152778/Coffee next week?/sent///0/0/
+46171/42345,4709490741/Coffee next week?/sent///0/0/
+62965/42352,3503703704/Content meet early Jan?/sent///0/0/
+24816/42306,4086921296/Digital content strategy - brief chat/sent///0/0/
+24816/42318,6246643519/Coffee next week?/sent///0/0/
+15385/42292,3851157407/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.4.1 [Emily@jnj.com]: Recipient address rejected: Access denied
+15385/42318,6246759259/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Emily@jnj.com]: Recipient address rejected: Access denied
+"40833/42320,5115277778/Coffee next week?/bounced///0/0/smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/answer/6596 41si11212564qgt.67 - gsmtp
+
+--139BF2E60A4.1447330598/mx.rmn.com"
+"40833/42348,3743402778/Coffee next week?/bounced///0/0/smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/answer/6596 b83si13817931qhc.118 - gsmtp
+
+--C8C802E60AB.1449737945/mx.rmn.com"
+54288/42348,3736111111/Coffee next week?/sent///0/0/
+54794/42348,3745486111/Coffee next week?/sent///0/0/
+37253/42317,4261921296/Coffee next week?/sent///1/0/
+37253/42345,4685763889/Coffee next week?/sent///1/0/
+9111/42279,5121064815/Emma, digital content strategy - brief chat/sent///0/0/
+9111/42318,624699074/Coffee next week?/bounced///0/0/smtp;550 5.1.1 User Unknown
+12941/42290,3587268519/Digital content strategy - brief chat/sent///0/0/
+12941/42318,6247337963/Coffee next week?/sent///0/0/
+54592/42348,3740740741/Coffee next week?/sent///0/0/
+16095/42317,4262037037/Coffee next week?/sent///1/0/
+16095/42345,4685416667/Coffee next week?/sent///1/0/
+7799/42275,3825578704/Emmanuel, digital content strategy - brief chat/sent///2/0/
+62695/42352,3504861111/Content meet early Jan?/sent///0/0/
+3922/42270,4099884259/Emmanuelle, digital content strategy - brief chat/sent///0/0/
+3922/42293,3648842593/Digital content strategy - brief chat/sent///1/0/
+3922/42318,6247569444/Coffee next week?/sent///2/1/
+14324/42290,3588657407/Digital content strategy - brief chat/sent///0/0/
+14324/42318,6247685185/Coffee next week?/sent///0/0/
+3982/42270,41/Enrico, digital content strategy - brief chat/sent///7/0/
+3982/42296,5116666667/Digital content strategy - brief chat/sent///1/0/
+44758/42325,3959027778/Coffee next week?/sent///1/0/
+44758/42345,4703819444/Coffee next week?/sent///1/0/
+44826/42327,4437268519/Coffee next week?/sent///0/0/
+44826/42345,4707060185/Coffee next week?/sent///0/0/
+19727/42299,3621527778/Digital content strategy - brief chat/sent///0/0/
+19727/42318,6247800926/Coffee next week?/sent///0/0/
+15878/42298,3675115741/Digital content strategy - brief chat/sent///1/0/
+16289/42293,364849537/Digital content strategy - brief chat/sent///1/0/
+16289/42318,6248032407/Coffee next week?/sent///0/0/
+8029/42275,3825694444/Erica, digital content strategy - brief chat/sent///11/2/
+24804/42306,4085416667/Digital content strategy - brief chat/sent///1/0/
+24804/42318,6248148148/Coffee next week?/sent///1/0/
+4963/42270,4100115741/Errin, digital content strategy - brief chat/sent///0/0/
+4963/42318,624837963/Coffee next week?/sent///0/0/
+26058/42310,6204398148/Digital content strategy - brief chat/sent///1/0/
+26058/42345,4664930556/Coffee next week?/sent///0/0/
+46668/42327,4437384259/Coffee next week?/sent///1/0/
+46668/42345,4713078704/Coffee next week?/sent///0/0/
+44741/42325,3971643519/Coffee next week?/sent///0/0/
+44741/42345,4703356481/Coffee next week?/sent///0/0/
+17408/42296,5116782407/Digital content strategy - brief chat/sent///0/0/
+17408/42318,624849537/Coffee next week?/sent///0/0/
+23248/42305,414212963/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+23248/42318,6248611111/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+1959/42276,3546412037/Felipe, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+1959/42318,6248726852/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+46692/42327,44375/Coffee next week?/sent///2/0/
+46692/42345,4713541667/Coffee next week?/sent///1/0/
+4171/42270,4100115741/Rosa, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 x66si3524404ywe.171 - gsmtp
+4171/42318,6248958333/Coffee next week?/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 f9si1835909ywc.374 - gsmtp
+26508/42310,6204513889/Digital content strategy - brief chat/sent///0/0/
+26508/42345,4671875/Coffee next week?/sent///0/0/
+62239/42352,3508796296/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 User unknown
+40666/42320,5115625/Coffee next week?/sent///2/0/
+40666/42345,4688773148/Coffee next week?/sent///0/0/
+35062/42317,4272569444/Coffee next week?/sent///3/0/
+35062/42345,4673958333/Coffee next week?/sent///1/0/
+14383/42290,3587962963/Digital content strategy - brief chat/sent///0/0/
+14383/42318,6249074074/Coffee next week?/sent///0/0/
+44743/42325,3966087963/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+47062/42327,4437615741/Coffee next week?/sent///5/3/
+47062/42345,4720023148/Coffee next week?/sent///3/0/
+"24735/42352,3505324074/Content meet early Jan?/soft-bounced///0/0/smtp; 5.1.1 - Bad destination email address 'reject' (delivery attempts: 0)
+
+--e2GU0.59jTf4LeB.7/5iFPZN6oe.1XkJsk"
+4698/42270,4100231481/Fintan, digital content strategy - brief chat/sent///1/0/
+4698/42305,4144675926/Digital content strategy - brief chat/sent///1/0/
+4698/42318,6249189815/Coffee next week?/sent///1/0/
+19231/42299,3618634259/Digital content strategy - brief chat/sent///0/0/
+19231/42318,6249305556/Coffee next week?/sent///0/0/
+4576/42270,4100231481/M., digital content strategy - brief chat/sent///1/0/
+4576/42318,6249537037/Coffee next week?/sent///0/0/
+4165/42270,4100347222/Fouad, digital content strategy - brief chat/sent///0/0/
+4165/42318,6249768519/Coffee next week?/sent///1/0/
+19256/42299,3621643518/Digital content strategy - brief chat/sent///2/0/
+19256/42318,6249884259/Coffee next week?/sent///1/0/
+17878/42298,3675231481/Digital content strategy - brief chat/sent///0/0/
+17878/42318,625/Coffee next week?/sent///0/0/
+35462/42317,426724537/Coffee next week?/sent///0/0/
+35462/42345,4680787037/Coffee next week?/sent///0/0/
+45831/42327,4437731481/Coffee next week?/sent///0/0/
+45831/42345,470787037/Coffee next week?/sent///0/0/
+13913/42292,3851157407/Digital content strategy - brief chat/bounced///0/0/smtp;550 Invalid Recipient - http://kb.mimecast.com/Mimecast_Knowledge_Base/Administration_Console/Monitoring/Mimecast_SMTP_Error_Codes#550
+13913/42318,6250347222/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+17404/42296,5116898148/Digital content strategy - brief chat/sent///0/0/
+17404/42318,6250578704/Coffee next week?/sent///0/0/
+35518/42317,4272685185/Coffee next week?/sent///4/0/
+2073/42268,4023263889/Frankie, digital content strategy - brief chat/sent///0/0/
+2073/42290,3589699074/Digital content strategy - brief chat/sent///1/0/
+17519/42297,3568055556/Digital content strategy - brief chat/sent///0/0/
+17519/42318,6250694444/Coffee next week?/sent///0/0/
+35530/42317,4272800926/Coffee next week?/sent///0/0/
+35530/42345,4681712963/Coffee next week?/sent///1/0/
+35225/42317,4267361111/Coffee next week?/sent///2/0/
+35225/42345,4677430556/Coffee next week?/sent///1/0/
+41293/42320,5106365741/Coffee next week?/sent///0/0/
+41293/42345,4695023148/Coffee next week?/sent///0/0/
+37221/42317,4262152778/Coffee next week?/sent///0/0/
+37221/42345,4684953704/Coffee next week?/sent///0/0/
+34836/42319,4558796296/Coffee next week?/sent///0/0/
+34836/42319,4565509259/Coffee next week?/sent///0/0/
+26365/42310,620462963/Digital content strategy - brief chat/sent///0/0/
+26365/42345,4668518519/Coffee next week?/sent///0/0/
+41311/42320,5115740741/Coffee next week?/sent///0/0/
+41311/42345,469537037/Coffee next week?/sent///0/0/
+41402/42324,6234027778/Coffee next week?/sent///1/0/
+41402/42324,6240393519/Coffee next week?/sent///0/0/
+34131/42319,4557523148/Coffee next week?/sent///0/0/
+34131/42319,4564583333/Coffee next week?/sent///0/0/
+16030/42317,4272916667/Coffee next week?/sent///4/0/
+16030/42345,4680208333/Coffee next week?/sent///4/0/
+24718/42306,4080555556/Digital content strategy - brief chat/sent///1/1/
+35510/42317,4273032407/Coffee next week?/sent///0/0/
+35510/42345,4659953704/Coffee next week?/sent///0/0/
+62453/42352,3504282407/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+4533/42270,4100347222/George, digital content strategy - brief chat/sent///1/0/
+4533/42318,6251041667/Coffee next week?/sent///1/0/
+31521/42319,4558912037/Coffee next week?/sent///0/0/
+31521/42319,4565625/Coffee next week?/sent///0/0/
+43374/42324,6234259259/Coffee next week?/sent///4/2/
+43374/42324,6240625/Coffee next week?/sent///4/0/
+43374/42349,5062384259/Coffee next week?/sent///2/0/
+43374/42349,5120949074/Coffee next week?/sent///2/0/
+54266/42348,3735763889/Coffee next week?/sent///5/0/
+59392/42349,5052777778/Coffee next week?/sent///0/0/
+59392/42349,5112615741/Coffee next week?/sent///0/0/
+26489/42310,620474537/Digital content strategy - brief chat/sent///0/0/
+26489/42345,4671412037/Coffee next week?/sent///1/0/
+26483/42310,6196875/Digital content strategy - brief chat/sent///0/0/
+26483/42345,4670717593/Coffee next week?/sent///1/0/
+26175/42310,6204976852/Digital content strategy - brief chat/sent///0/0/
+26175/42345,4666319444/Coffee next week?/sent///0/0/
+26535/42310,6201967593/Digital content strategy - brief chat/sent///0/0/
+26535/42345,4673032407/Coffee next week?/sent///4/1/
+41111/42320,5106712963/Coffee next week?/sent///0/0/
+41111/42345,4691550926/Coffee next week?/sent///0/0/
+41111/42348,3744444444/Coffee next week?/sent///0/0/
+37269/42317,4264699074/Coffee next week?/sent///3/0/
+35204/42317,4267476852/Coffee next week?/sent///1/1/
+34021/42319,4556597222/Coffee next week?/sent///0/0/
+34021/42319,4563773148/Coffee next week?/sent///0/0/
+22974/42305,4143981481/Digital content strategy - brief chat/sent///0/0/
+22974/42318,6251273148/Coffee next week?/sent///0/0/
+26411/42310,6205092593/Digital content strategy - brief chat/sent///0/0/
+26411/42345,4669097222/Coffee next week?/sent///0/0/
+44622/42325,3959375/Coffee next week?/sent///0/0/
+44622/42345,4697337963/Coffee next week?/sent///0/0/
+59401/42349,5062615741/Coffee next week?/sent///0/0/
+59401/42349,5121180556/Coffee next week?/sent///0/0/
+14608/42290,3588425926/Digital content strategy - brief chat/sent///1/0/
+14608/42318,6252546296/Coffee next week?/sent///0/0/
+44794/42325,3971875/Coffee next week?/sent///1/0/
+44794/42345,4705092593/Coffee next week?/sent///0/0/
+46240/42327,4438194444/Coffee next week?/soft-bounced///0/0/smtp;451 4.3.0 <Greg.IDM@worldfirst.com>: Temporary lookup failure
+46240/42345,4710532407/Coffee next week?/soft-bounced///0/0/smtp;451 4.3.0 <Greg.IDM@worldfirst.com>: Temporary lookup failure
+54690/42348,3742361111/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+7737/42275,3825810185/Georgina, digital content strategy - brief chat/sent///1/0/
+7737/42318,6253009259/Coffee next week?/sent///2/0/
+53601/42348,3734722222/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+2183/42268,402337963/Javier, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+2183/42318,6253356481/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+46478/42327,4438310185/Coffee next week?/sent///1/0/
+46478/42345,4711458333/Coffee next week?/sent///0/0/
+5090/42270,4100462963/Graham, digital content strategy - brief chat/sent///1/1/
+5090/42318,6254398148/Coffee next week?/sent///0/0/
+7822/42275,3825810185/Haley, digital content strategy - brief chat/sent///0/0/
+7822/42318,6254861111/Coffee next week?/sent///0/0/
+53584/42348,3733449074/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+43452/42324,6231944444/Coffee next week?/sent///0/0/
+43452/42324,6238310185/Coffee next week?/sent///1/0/
+43452/42349,5053125/Coffee next week?/sent///0/0/
+43452/42349,5112731481/Coffee next week?/sent///0/0/
+47052/42327,4438425926/Coffee next week?/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 d84si5461415ywb.387 - gsmtp
+9406/42276,3547916667/Hannah, digital content strategy - brief chat/sent///0/0/
+9406/42317,4273148148/Coffee next week?/sent///2/0/
+9406/42318,6255092593/Coffee next week?/sent///1/0/
+38890/42320,5110763889/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+38890/42348,3741550926/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+35127/42317,4265162037/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+5045/42270,4100462963/Hannah, digital content strategy - brief chat/sent///2/0/
+5045/42318,6255439815/Coffee next week?/sent///2/0/
+26531/42310,6205208333/Digital content strategy - brief chat/sent///0/0/
+26531/42345,4672222222/Coffee next week?/sent///0/0/
+1987/42268,402349537/Harriet, digital content strategy - brief chat/sent///1/0/
+1987/42318,6255787037/Coffee next week?/sent///1/0/
+59242/42349,5062847222/Coffee next week?/sent///0/0/
+59242/42349,5121412037/Coffee next week?/sent///0/0/
+23403/42305,4140856481/Digital content strategy - brief chat/sent///0/0/
+23403/42318,6256134259/Coffee next week?/sent///0/0/
+54269/42348,373587963/Coffee next week?/sent///3/0/
+54688/42348,374224537/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Hayley.Elwell@oliver.agency]: Recipient address rejected: Access denied
+14494/42291,3784490741/Digital content strategy - brief chat/sent///0/0/
+14494/42318,6257060185/Coffee next week?/sent///0/0/
+14096/42299,361875/Digital content strategy - brief chat/sent///0/0/
+14096/42318,6257291666/Coffee next week?/sent///0/0/
+31612/42319,4559143518/Coffee next week?/sent///1/0/
+31612/42319,4565740741/Coffee next week?/sent///1/0/
+7556/42275,3825925926/Hannah, digital content strategy - brief chat/sent///0/0/
+2468/42268,402349537/Heather, digital content strategy - brief chat/sent///25/1/
+26527/42310,6205555556/Digital content strategy - brief chat/sent///0/0/
+26527/42345,4672106481/Coffee next week?/sent///0/0/
+26480/42310,6196990741/Digital content strategy - brief chat/sent///0/0/
+26480/42345,4670486111/Coffee next week?/sent///0/0/
+41343/42324,622962963/Coffee next week?/sent///1/0/
+41343/42324,6236111111/Coffee next week?/sent///1/0/
+41343/42348,3749768519/Coffee next week?/sent///1/0/
+59236/42349,5062962963/Coffee next week?/sent///0/0/
+59236/42349,5121643519/Coffee next week?/sent///1/0/
+34375/42319,4556481481/Coffee next week?/sent///0/0/
+34375/42319,4563657407/Coffee next week?/sent///0/0/
+2154/42268,4023611111/Helen, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+2154/42318,625775463/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+14174/42290,3590277778/Digital content strategy - brief chat/sent///0/0/
+14174/42318,6258217593/Coffee next week?/sent///0/0/
+44655/42325,3966898148/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Helen.Martin@powa.com]: Recipient address rejected: Access denied
+62353/42352,3510300926/Content meet early Jan?/sent///4/1/
+47001/42327,4438541667/Coffee next week?/sent///0/0/
+47001/42345,4718634259/Coffee next week?/sent///0/0/
+14520/42290,358900463/Digital content strategy - brief chat/sent///0/0/
+14520/42318,6258912037/Coffee next week?/sent///0/0/
+46564/42327,4438657407/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+15503/42304,4243055556/Digital content strategy - brief chat/sent///3/1/
+15503/42318,6259490741/Coffee next week?/sent///1/1/
+41288/42320,5106828704/Coffee next week?/sent///2/1/
+41288/42345,4694675926/Coffee next week?/sent///2/0/
+41288/42352,3503819444/Content meet early Jan?/sent///1/0/
+46847/42327,4439930556/Coffee next week?/sent///6/0/
+46847/42348,373125/Coffee next week?/sent///7/0/
+62716/42352,3504976852/Content meet early Jan?/sent///0/0/
+26428/42310,6205671296/Digital content strategy - brief chat/sent///0/0/
+26428/42345,4669560185/Coffee next week?/sent///3/1/
+7471/42275,3826041667/Hiten, digital content strategy - brief chat/sent///3/3/
+7471/42318,6259722222/Coffee next week?/sent///8/2/
+37133/42317,4260416667/Coffee next week?/sent///1/0/
+37133/42345,4682638889/Coffee next week?/sent///0/0/
+43434/42324,6231828704/Coffee next week?/sent///0/0/
+43434/42324,6238194444/Coffee next week?/sent///0/0/
+43434/42349,5053240741/Coffee next week?/sent///0/0/
+43434/42349,5112847222/Coffee next week?/sent///0/0/
+2208/42268,4023726852/Laura, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+2208/42318,6260069444/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+15489/42292,3851273148/Digital content strategy - brief chat/sent///15/2/
+15489/42318,6260648148/Coffee next week?/sent///6/1/
+35489/42317,4268402778/Coffee next week?/sent///3/1/
+7908/42275,3826157407/Hooman, digital content strategy - brief chat/sent///4/0/
+7908/42305,4144444444/Digital content strategy - brief chat/sent///3/0/
+7908/42318,6260763889/Coffee next week?/sent///0/0/
+45781/42327,4440046296/Coffee next week?/sent///1/0/
+45781/42345,4707523148/Coffee next week?/sent///0/0/
+19620/42299,3621759259/Digital content strategy - brief chat/sent///0/0/
+19620/42318,626087963/Coffee next week?/sent///0/0/
+6502/42276,3547106481/David, digital content strategy - brief chat/sent///9/0/
+41235/42348,3747800926/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+4307/42270,4100578704/Halina, digital content strategy - brief chat/sent///0/0/
+4307/42318,6261226852/Coffee next week?/sent///0/0/
+35403/42317,4268634259/Coffee next week?/sent///0/0/
+35403/42345,4679976852/Coffee next week?/sent///0/0/
+54526/42348,3736458333/Coffee next week?/sent///0/0/
+46838/42327,4440162037/Coffee next week?/sent///1/0/
+46838/42345,4715856481/Coffee next week?/sent///3/0/
+24926/42306,4085532407/Digital content strategy - brief chat/sent///0/0/
+24926/42318,6261458333/Coffee next week?/sent///0/0/
+19230/42299,3618865741/Digital content strategy - brief chat/sent///1/0/
+19230/42318,6261574074/Coffee next week?/sent///5/0/
+24720/42306,4086458333/Digital content strategy - brief chat/sent///0/0/
+24720/42318,6261689815/Coffee next week?/sent///0/0/
+19265/42299,3618865741/Digital content strategy - brief chat/sent///0/0/
+19265/42318,6262615741/Coffee next week?/sent///0/0/
+41254/42320,5115972222/Coffee next week?/sent///11/1/
+41254/42345,469375/Coffee next week?/sent///1/0/
+41254/42348,3752083333/Coffee next week?/sent///4/0/
+9268/42279,5123842593/Ian, digital content strategy - brief chat/sent///0/0/
+9268/42318,6262731481/Coffee next week?/sent///0/0/
+19489/42299,3621759259/Digital content strategy - brief chat/sent///0/0/
+19489/42318,6262962963/Coffee next week?/sent///2/0/
+#N/A
+35227/42317,4268634259/Coffee next week?/sent///0/0/
+35227/42345,4677546296/Coffee next week?/sent///1/0/
+41229/42320,5116203704/Coffee next week?/sent///0/0/
+24921/42306,4085300926/Digital content strategy - brief chat/sent///2/0/
+24921/42318,6263425926/Coffee next week?/sent///3/0/
+34628/42319,4557060185/Coffee next week?/sent///0/0/
+34628/42319,456412037/Coffee next week?/sent///0/0/
+31663/42319,4561805556/Coffee next week?/sent///1/0/
+31663/42319,4567939815/Coffee next week?/sent///1/0/
+6498/42276,3547106481/Ildiko, digital content strategy - brief chat/sent///10/0/
+6498/42318,6263657407/Coffee next week?/sent///25/0/
+24750/42306,4087037037/Digital content strategy - brief chat/sent///1/0/
+24750/42318,6263773148/Coffee next week?/sent///1/0/
+46878/42327,4440277778/Coffee next week?/sent///1/0/
+46878/42345,4717476852/Coffee next week?/sent///3/1/
+43478/42324,6235416667/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [imad.alam@salmon.com]: Recipient address rejected: Access denied
+43478/42324,6241898148/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [imad.alam@salmon.com]: Recipient address rejected: Access denied
+2100/42268,4023726852/Inderjit, digital content strategy - brief chat/sent///1/0/
+2100/42291,3785300926/Digital content strategy - brief chat/sent///0/0/
+2100/42318,626400463/Coffee next week?/sent///1/0/
+55006/42348,374837963/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+4349/42270,4100578704/Ingrid, digital content strategy - brief chat/sent///6/1/
+7477/42275,3826157407/Isobel, digital content strategy - brief chat/sent///1/0/
+7477/42318,6264236111/Coffee next week?/sent///1/0/
+14642/42291,378599537/Digital content strategy - brief chat/sent///0/0/
+14642/42318,6264467593/Coffee next week?/sent///0/0/
+37124/42317,4262731482/Coffee next week?/sent///2/0/
+47077/42327,4440393519/Coffee next week?/sent///0/0/
+47077/42345,472037037/Coffee next week?/sent///0/0/
+46719/42327,4440393519/Coffee next week?/sent///0/0/
+46719/42345,4713773148/Coffee next week?/sent///3/0/
+10480/42296,5117013889/Digital content strategy - brief chat/sent///0/0/
+10480/42318,6264583333/Coffee next week?/sent///0/0/
+41371/42324,6233564815/Coffee next week?/sent///2/0/
+41371/42324,6239930556/Coffee next week?/sent///1/0/
+41371/42349,5063078704/Coffee next week?/sent///2/0/
+41371/42349,5121759259/Coffee next week?/sent///2/0/
+37134/42317,4262847222/Coffee next week?/sent///0/0/
+37134/42345,468287037/Coffee next week?/sent///2/0/
+2186/42268,4023842593/Ivan, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+2186/42318,6265046296/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+17449/42297,3567476852/Digital content strategy - brief chat/sent///0/0/
+17449/42318,6265162037/Coffee next week?/sent///0/0/
+26264/42311,4875925926/Digital content strategy - brief chat/sent///0/0/
+26264/42345,4666782407/Coffee next week?/sent///0/0/
+4157/42270,4100694444/Janine, digital content strategy - brief chat/sent///0/0/
+4157/42318,6265393519/Coffee next week?/sent///0/0/
+44665/42325,3971990741/Coffee next week?/sent///4/2/
+14171/42290,3590509259/Digital content strategy - brief chat/sent///4/0/
+35507/42317,4265277778/Coffee next week?/sent///4/0/
+35429/42317,4268865741/Coffee next week?/sent///0/0/
+35429/42345,4680324074/Coffee next week?/sent///0/0/
+3755/42270,4100810185/Jaimee, digital content strategy - brief chat/sent///0/0/
+3755/42291,3784375/Digital content strategy - brief chat/sent///0/0/
+3755/42318,6265509259/Coffee next week?/sent///0/0/
+47088/42327,4440509259/Coffee next week?/sent///4/1/
+47088/42345,4720833333/Coffee next week?/sent///3/1/
+9364/42276,3547800926/James, digital content strategy - brief chat/sent///0/0/
+9364/42318,6266087963/Coffee next week?/sent///0/0/
+8002/42275,3826273148/James, digital content strategy - brief chat/sent///0/0/
+8002/42318,6266550926/Coffee next week?/sent///0/0/
+54561/42348,3739236111/Coffee next week?/sent///2/0/
+14373/42290,3590509259/Digital content strategy - brief chat/sent///0/0/
+14373/42318,626724537/Coffee next week?/sent///0/0/
+43358/42324,6232523148/Coffee next week?/sent///0/0/
+43358/42324,623900463/Coffee next week?/sent///1/0/
+43358/42349,5056944444/Coffee next week?/sent///1/0/
+43358/42349,5115509259/Coffee next week?/sent///1/0/
+41211/42320,5116319444/Coffee next week?/sent///0/0/
+41211/42345,4692361111/Coffee next week?/sent///0/0/
+41359/42348,3750462963/Coffee next week?/sent///7/2/
+44737/42325,3972106481/Coffee next week?/sent///0/0/
+44737/42345,4703009259/Coffee next week?/sent///9/1/
+53589/42348,3733796296/Coffee next week?/sent///0/0/
+4556/42270,4100810185/Stephen, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+4556/42318,6267592593/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+45946/42327,4440625/Coffee next week?/sent///0/0/
+45946/42345,4708333333/Coffee next week?/sent///0/0/
+54707/42348,3743171296/Coffee next week?/soft-bounced///0/0/smtp;554 5.4.14 Hop count exceeded - possible mail loop ATTR1
+4125/42270,4100925926/James, digital content strategy - brief chat/sent///0/0/
+4125/42318,6267824074/Coffee next week?/sent///0/0/
+41103/42320,5116550926/Coffee next week?/sent///0/0/
+6564/42276,3547337963/Jamie, digital content strategy - brief chat/sent///1/0/
+6564/42318,6268171296/Coffee next week?/sent///3/0/
+37115/42317,4262847222/Coffee next week?/sent///4/1/
+54570/42348,3739351852/Coffee next week?/sent///25/1/
+7475/42275,3826388889/Jane, digital content strategy - brief chat/sent///1/0/
+7475/42306,4087615741/Digital content strategy - brief chat/sent///2/0/
+7475/42318,6268287037/Coffee next week?/sent///3/1/
+44694/42325,3972222222/Coffee next week?/sent///1/0/
+44694/42345,4700462963/Coffee next week?/sent///1/0/
+17421/42296,511712963/Digital content strategy - brief chat/sent///0/0/
+17421/42304,4243171296/Digital content strategy - brief chat/sent///0/0/
+17421/42318,6268402778/Coffee next week?/sent///0/0/
+58994/42349,5063310185/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+58994/42349,5121990741/Coffee next week?/rejected///0/0/
+19623/42299,3618981481/Digital content strategy - brief chat/sent///0/0/
+19623/42318,6268634259/Coffee next week?/sent///0/0/
+5130/42270,4100925926/Javier, digital content strategy - brief chat/sent///0/0/
+5130/42318,6268981481/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+4142/42270,4100925926/Javier, digital content strategy - brief chat/sent///8/0/
+2418/42268,4023842593/John, digital content strategy - brief chat/sent///0/0/
+2418/42318,6269791667/Coffee next week?/sent///1/0/
+43423/42324,6234837963/Coffee next week?/sent///0/0/
+43423/42324,6241319444/Coffee next week?/sent///0/0/
+41386/42324,6230324074/Coffee next week?/sent///1/0/
+41386/42324,6236805556/Coffee next week?/sent///1/0/
+41386/42348,3750347222/Coffee next week?/sent///1/0/
+37144/42317,4262962962/Coffee next week?/sent///2/0/
+37144/42345,4682986111/Coffee next week?/sent///1/0/
+34718/42319,45625/Coffee next week?/sent///0/0/
+34718/42319,4568402778/Coffee next week?/sent///0/0/
+9117/42279,5121412037/Jeanne, digital content strategy - brief chat/sent///0/0/
+9117/42310,6197106481/Digital content strategy - brief chat/sent///0/0/
+26505/42311,4876157407/Digital content strategy - brief chat/sent///0/0/
+26505/42345,4671643519/Coffee next week?/sent///0/0/
+9123/42279,5121527778/Jeff, digital content strategy - brief chat/sent///0/0/
+9123/42318,6269907407/Coffee next week?/sent///0/0/
+35336/42317,4268981482/Coffee next week?/sent///1/0/
+35336/42345,4679050926/Coffee next week?/sent///1/0/
+26499/42311,4876273148/Digital content strategy - brief chat/sent///0/0/
+26499/42345,4671527778/Coffee next week?/sent///0/0/
+9377/42279,5124884259/Jennifer, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9377/42318,6270138889/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+15687/42292,385150463/Digital content strategy - brief chat/sent///0/0/
+15687/42318,627025463/Coffee next week?/sent///0/0/
+46589/42327,4440740741/Coffee next week?/sent///0/0/
+46589/42345,4660763889/Coffee next week?/sent///0/0/
+9359/42276,3547800926/Jenny, digital content strategy - brief chat/sent///0/0/
+9359/42318,627037037/Coffee next week?/sent///0/0/
+4880/42270,4101041667/Max, digital content strategy - brief chat/bounced///0/0/smtp;550 unknown user
+4880/42318,6271180556/Coffee next week?/bounced///0/0/smtp;550 unknown user
+44656/42325,3972453704/Coffee next week?/sent///1/0/
+44656/42345,4698148148/Coffee next week?/sent///1/0/
+4269/42270,4101157407/Jeremy, digital content strategy - brief chat/sent///0/0/
+4269/42318,6271412037/Coffee next week?/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 x134si1863927ywd.187 - gsmtp
+9267/42279,5123726852/Jeremy, digital content strategy - brief chat/sent///0/0/
+9267/42299,3619097222/Digital content strategy - brief chat/sent///0/0/
+9267/42318,6271527778/Coffee next week?/sent///0/0/
+13096/42290,3587615741/Digital content strategy - brief chat/sent///0/0/
+13096/42318,6271643518/Coffee next week?/sent///0/0/
+23437/42305,4141898148/Digital content strategy - brief chat/sent///0/0/
+23437/42318,6272569444/Coffee next week?/bounced///0/0/smtp;550 RCPT TO:<JessicaRanft@o2.co.uk> User unknown
+7459/42275,382650463/Jez, digital content strategy - brief chat/sent///1/0/
+7459/42318,6272800926/Coffee next week?/sent///0/0/
+46201/42327,4440856481/Coffee next week?/sent///0/0/
+46201/42345,4709722222/Coffee next week?/sent///0/0/
+2114/42268,4023958333/Jill, digital content strategy - brief chat/sent///0/0/
+2114/42291,3785532407/Digital content strategy - brief chat/sent///0/0/
+2114/42318,6273032407/Coffee next week?/sent///0/0/
+35111/42317,4269097222/Coffee next week?/sent///0/0/
+35111/42345,4675231481/Coffee next week?/sent///0/0/
+"14592/42290,3588194444/Digital content strategy - brief chat/soft-bounced///0/0/smtp;554 5.2.0 STOREDRV.Deliver.Exception:AccessDeniedException.MapiExceptionNotAuthorized; Failed to process message due to a permanent exception with message Cannot complete delivery-time processing. 16.55847:1A2F0000, 17.43559:00000000A6020000000000000F00000000000000, 255.23226:00000000, 255.27962:0A000000, 255.27962:0E000000, 255.27962:0A000000, 255.27962:9E000000, 255.17082:D6040000, 0.18273:00000000, 4.21921:D6040000, 255.27962:FA000000, 255.1494:43000000, 255.1238:13800000, 4.13800:0F010480, 4.9448:0F010480, 0.25720:B0840110, 4.7716:0F010480, 2.22787:00000000, 4.13800:0F010480, 4.9448:0F010480, 0.25720:0F010480, 4.7716:0F010480, 0.17692:0F010480, 6.5587:0F01048002014D0E0F010480, 4.33375:0F010480, 2.17597:00000000, 2.22787:00000000, 4.13032:0F010480, 2.22787:00000000, 4.13032:0F010480, 0.26000:03000668, 4.4580:05000780, 0.26640:0F010480, 4.4408:05000780, 4.7637:D8040000, 0.49797:0F010480, 4.5093:D6040000, 4.5318:D6040000, 4.10104:D6040000, 0.57449:0F010480, 4.6
+ 025:05000780, 4.5257:05000780, 4.4606:D6040000, 255.1750:00000000, 0.26849:2D000000, 255.21817:D6040000"
+"14592/42318,627337963/Coffee next week?/soft-bounced///0/0/smtp;554 5.2.0 STOREDRV.Deliver.Exception:AccessDeniedException.MapiExceptionNotAuthorized; Failed to process message due to a permanent exception with message Cannot complete delivery-time processing. 16.55847:E42A0000, 17.43559:00000000A6020000000000001F00000000000000, 255.23226:00000000, 255.27962:0A000000, 255.27962:0E000000, 255.27962:0A000000, 255.27962:9E000000, 255.17082:D6040000, 0.18273:00000000, 4.21921:D6040000, 255.27962:FA000000, 255.1494:43000000, 255.1238:13800000, 4.13800:0F010480, 4.9448:0F010480, 0.25720:B0840110, 4.7716:0F010480, 2.22787:00000000, 4.13800:0F010480, 4.9448:0F010480, 0.25720:0F010480, 4.7716:0F010480, 0.17692:0F010480, 6.5587:0F01048002014D0E0F010480, 4.33375:0F010480, 2.17597:00000000, 2.22787:00000000, 4.13032:0F010480, 2.22787:00000000, 4.13032:0F010480, 0.26000:0F010480, 4.4580:05000780, 0.26640:0F010480, 4.4408:05000780, 4.7637:D8040000, 0.49797:0F010480, 4.5093:D6040000, 4.5318:D6040000, 4.10104:D6040000, 0.57449:0F010480, 4.6
+ 025:05000780, 4.5257:05000780, 4.4606:D6040000, 255.1750:0E000000, 0.26849:2D000000, 255.21817:D6040000"
+62861/42352,3511226852/Content meet early Jan?/sent///0/0/
+19653/42299,3619212963/Digital content strategy - brief chat/sent///0/0/
+19653/42318,6273842593/Coffee next week?/sent///0/0/
+46711/42327,4440856481/Coffee next week?/sent///1/1/
+46711/42345,4713657407/Coffee next week?/sent///1/1/
+9082/42279,512025463/Julia, digital content strategy - brief chat/sent///0/0/
+9082/42306,4086574074/Digital content strategy - brief chat/sent///0/0/
+9082/42318,6273958333/Coffee next week?/sent///1/0/
+21987/42304,4243287037/Digital content strategy - brief chat/sent///0/0/
+21987/42318,6274189815/Coffee next week?/sent///0/0/
+25919/42311,4877662037/Digital content strategy - brief chat/sent///0/0/
+25919/42345,4663541667/Coffee next week?/sent///0/0/
+9141/42279,5121990741/Jayne, digital content strategy - brief chat/sent///0/0/
+9141/42318,6274305556/Coffee next week?/sent///0/0/
+4230/42270,4101157407/Jo, digital content strategy - brief chat/sent///0/0/
+4230/42318,6274537037/Coffee next week?/sent///3/0/
+7832/42275,382662037/Joanna, digital content strategy - brief chat/sent///0/0/
+7832/42305,4144907407/Digital content strategy - brief chat/sent///0/0/
+7832/42318,6274652778/Coffee next week?/sent///0/0/
+40848/42320,5106944444/Coffee next week?/sent///0/0/
+40848/42345,4690162037/Coffee next week?/sent///0/0/
+40848/42348,3745601852/Coffee next week?/sent///0/0/
+41297/42320,5116782407/Coffee next week?/sent///0/0/
+41297/42345,4695138889/Coffee next week?/sent///0/0/
+23645/42305,4142824074/Digital content strategy - brief chat/sent///0/0/
+23645/42318,6274768518/Coffee next week?/sent///0/0/
+9391/42279,5124884259/Joanne, digital content strategy - brief chat/sent///0/0/
+9391/42318,6275/Coffee next week?/soft-bounced///0/0/smtp;550 5.7.54 SMTP; Unable to relay recipient in non-accepted domain
+45822/42327,4440972222/Coffee next week?/sent///0/0/
+45822/42345,4707638889/Coffee next week?/sent///0/0/
+26273/42310,6202083333/Digital content strategy - brief chat/sent///0/0/
+26273/42345,4666898148/Coffee next week?/sent///0/0/
+14136/42290,3588541667/Digital content strategy - brief chat/sent///1/1/
+14136/42318,6275231481/Coffee next week?/sent///0/0/
+14492/42291,3784722222/Digital content strategy - brief chat/sent///6/0/
+14492/42318,6275347222/Coffee next week?/sent///3/0/
+17457/42297,3563888889/Digital content strategy - brief chat/sent///1/0/
+"40742/42320,5107175926/Coffee next week?/soft-bounced///0/0/X-Notes; Recipient user name John (John@cmcmarkets.co
+ m) not unique.  Several matches found in Domino Directory.
+
+--==IFJRGLKFGIR10813254UHRUHIHD"
+"40742/42345,468912037/Coffee next week?/soft-bounced///0/0/X-Notes; Recipient user name John (John@cmcmarkets.co
+ m) not unique.  Several matches found in Domino Directory.
+
+--==IFJRGLKFGIR11804542UHRUHIHD"
+"40742/42348,374212963/Coffee next week?/soft-bounced///0/0/X-Notes; Recipient user name John (John@cmcmarkets.co
+ m) not unique.  Several matches found in Domino Directory.
+
+--==IFJRGLKFGIR13246650UHRUHIHD"
+"40742/42348,3744791667/Coffee next week?/soft-bounced///0/0/X-Notes; Recipient user name John (John@cmcmarkets.co
+ m) not unique.  Several matches found in Domino Directory.
+
+--==IFJRGLKFGIR12264474UHRUHIHD"
+33892/42319,4557986111/Coffee next week?/sent///0/0/
+33892/42319,4564814815/Coffee next week?/sent///0/0/
+48072/42348,3729513889/Coffee next week?/sent///0/0/
+47853/42348,3734143519/Coffee next week?/sent///0/0/
+4199/42270,4101273148/Jon, digital content strategy - brief chat/sent///5/0/
+4199/42318,6275578704/Coffee next week?/sent///7/0/
+43415/42324,6234490741/Coffee next week?/sent///13/0/
+43415/42324,6240972222/Coffee next week?/sent///0/0/
+43415/42349,5063425926/Coffee next week?/sent///4/1/
+43415/42349,5122222222/Coffee next week?/sent///0/0/
+44602/42325,396087963/Coffee next week?/sent///0/0/
+44602/42345,4696180556/Coffee next week?/sent///0/0/
+35449/42317,4265393519/Coffee next week?/sent///1/0/
+35449/42345,4680555556/Coffee next week?/sent///0/0/
+54900/42348,374699074/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+40640/42320,5111574074/Coffee next week?/sent///0/0/
+40640/42345,4688657407/Coffee next week?/sent///0/0/
+9456/42279,5125578704/Jose, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+9456/42318,6275694444/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+41198/42320,5111805556/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Josie.Scotchmer@emarsys.com]: Recipient address rejected: Access denied
+4658/42270,4101273148/Joy, digital content strategy - brief chat/sent///0/0/
+4658/42318,6275925926/Coffee next week?/sent///0/0/
+17390/42297,3567361111/Digital content strategy - brief chat/sent///0/0/
+17390/42318,6276041667/Coffee next week?/sent///0/0/
+9080/42279,512025463/Jinal, digital content strategy - brief chat/sent///0/0/
+9080/42318,6276157407/Coffee next week?/sent///0/0/
+47127/42327,4441087963/Coffee next week?/sent///0/0/
+47127/42345,4721296296/Coffee next week?/sent///0/0/
+17468/42304,4243402778/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17468/42318,6276273148/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17514/42297,356724537/Digital content strategy - brief chat/sent///0/0/
+17514/42318,6276388889/Coffee next week?/sent///0/0/
+44619/42325,3972569444/Coffee next week?/sent///1/0/
+44619/42345,4696990741/Coffee next week?/sent///1/0/
+46594/42327,4441203704/Coffee next week?/sent///0/0/
+46594/42345,4712268518/Coffee next week?/sent///0/0/
+46017/42327,4441319444/Coffee next week?/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 f64si5523378ywd.102 - gsmtp
+46080/42327,4441435185/Coffee next week?/sent///1/0/
+46080/42345,4708912037/Coffee next week?/sent///0/0/
+43389/42324,623125/Coffee next week?/sent///0/0/
+43389/42324,6237615741/Coffee next week?/sent///0/0/
+15291/42292,385162037/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+15291/42318,627650463/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+44680/42325,3968171296/Coffee next week?/sent///0/0/
+44680/42345,47/Coffee next week?/sent///0/0/
+47034/42327,4441550926/Coffee next week?/sent///0/0/
+47034/42345,4719444444/Coffee next week?/sent///0/0/
+17477/42297,3567939815/Digital content strategy - brief chat/sent///1/1/
+17477/42318,627662037/Coffee next week?/sent///3/1/
+"43436/42349,5053587963/Coffee next week?/soft-bounced///0/0/X-Notes; Recipient user name Julian (Julian@jackmorto
+ n.com) not unique.  Several matches found in Domino Directory.
+
+--==IFJRGLKFGIR18350170UHRUHIHD"
+43436/42349,5112962963/Coffee next week?/rejected///0/0/
+2501/42268,4024074074/Julie, digital content strategy - brief chat/sent///0/0/
+2501/42318,6276736111/Coffee next week?/sent///0/0/
+9112/42279,5121180556/Julie, digital content strategy - brief chat/sent///0/0/
+9112/42311,4877777778/Digital content strategy - brief chat/sent///0/0/
+9112/42318,6276851852/Coffee next week?/sent///0/0/
+17625/42297,3564814815/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17625/42318,6276967593/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+9102/42279,5120833333/Jurga, digital content strategy - brief chat/sent///0/0/
+9102/42318,6277083333/Coffee next week?/sent///0/0/
+4172/42270,4101388889/Jeremy, digital content strategy - brief chat/sent///0/0/
+4172/42318,6277199074/Coffee next week?/sent///4/0/
+24948/42306,4080787037/Digital content strategy - brief chat/sent///0/0/
+15363/42292,3851736111/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.0.0 <K.Thoma@viivhealthcare.com>... User unknown
+15363/42318,6277430556/Coffee next week?/soft-bounced///0/0/SMTP; 554 5.4.6 Too many hops
+9452/42279,5125462963/Karen, digital content strategy - brief chat/sent///0/0/
+9452/42318,6277546296/Coffee next week?/sent///0/0/
+7513/42275,3826736111/Anna, digital content strategy - brief chat/sent///0/0/
+7513/42318,6277662037/Coffee next week?/sent///0/0/
+47101/42327,4441666667/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Kat.Garvey@microsoft.com]: Recipient address rejected: Access denied
+34531/42319,4561574074/Coffee next week?/sent///0/0/
+34531/42319,4567708333/Coffee next week?/sent///0/0/
+47043/42327,4441782407/Coffee next week?/sent///0/0/
+19232/42299,3619328704/Digital content strategy - brief chat/sent///0/0/
+19232/42318,6277893518/Coffee next week?/sent///0/0/
+15967/42292,3851736111/Digital content strategy - brief chat/sent///0/0/
+15967/42318,6278009259/Coffee next week?/sent///0/0/
+56444/42348,3753125/Coffee next week?/sent///0/0/
+2008/42268,4024189815/Kate, digital content strategy - brief chat/sent///0/0/
+2008/42318,6279166667/Coffee next week?/sent///0/0/
+4271/42270,4101388889/Kate, digital content strategy - brief chat/sent///0/0/
+4271/42318,6279398148/Coffee next week?/sent///0/0/
+44696/42325,3972685185/Coffee next week?/sent///0/0/
+44696/42345,4700694444/Coffee next week?/sent///0/0/
+9237/42279,512349537/Katherine, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 User Unknown
+9237/42318,627962963/Coffee next week?/bounced///0/0/smtp;550 5.1.1 User Unknown
+54578/42348,3740162037/Coffee next week?/sent///1/0/
+9131/42279,5121759259/Katie, digital content strategy - brief chat/sent///0/0/
+9131/42305,4140625/Digital content strategy - brief chat/sent///0/0/
+37241/42317,4260648148/Coffee next week?/sent///0/0/
+37241/42345,4685532407/Coffee next week?/sent///1/1/
+18560/42298,3673611111/Digital content strategy - brief chat/sent///0/0/
+18560/42318,6279861111/Coffee next week?/sent///1/0/
+44761/42325,3972800926/Coffee next week?/sent///0/0/
+44761/42345,4704050926/Coffee next week?/sent///0/0/
+44824/42327,4441898148/Coffee next week?/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 k133si5483965ywb.290 - gsmtp
+35165/42317,4269212963/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+44738/42325,3973032407/Coffee next week?/sent///0/0/
+44738/42345,4703125/Coffee next week?/sent///0/0/
+19223/42299,3621875/Digital content strategy - brief chat/sent///0/0/
+19223/42318,6280324074/Coffee next week?/sent///7/0/
+15344/42292,3851851852/Digital content strategy - brief chat/sent///0/0/
+15344/42318,6280439815/Coffee next week?/sent///0/0/
+4707/42271,4365625/Keefy, digital content strategy - brief chat/sent///3/0/
+4707/42318,6280902777/Coffee next week?/sent///2/0/
+22821/42305,4140509259/Digital content strategy - brief chat/sent///0/0/
+22821/42318,6281018518/Coffee next week?/sent///1/0/
+26303/42310,6202314815/Digital content strategy - brief chat/sent///0/0/
+26303/42345,4667361111/Coffee next week?/sent///0/0/
+26539/42311,4878009259/Digital content strategy - brief chat/sent///1/0/
+26539/42345,4673263889/Coffee next week?/sent///1/0/
+41076/42320,5107291667/Coffee next week?/sent///1/0/
+41076/42345,4690740741/Coffee next week?/sent///2/0/
+41076/42352,3502546296/Content meet early Jan?/sent///1/0/
+53590/42348,3733912037/Coffee next week?/sent///0/0/
+43409/42324,6231365741/Coffee next week?/sent///0/0/
+43409/42324,6237847222/Coffee next week?/sent///0/0/
+43409/42349,5053703704/Coffee next week?/sent///0/0/
+43409/42349,5113078704/Coffee next week?/sent///0/0/
+3822/42271,4365625/Kelly, digital content strategy - brief chat/sent///1/0/
+3822/42292,3851967593/Digital content strategy - brief chat/sent///0/0/
+53598/42348,3734490741/Coffee next week?/sent///0/0/
+41116/42320,5107407407/Coffee next week?/sent///0/0/
+41116/42345,4691782407/Coffee next week?/sent///0/0/
+41116/42348,3744212963/Coffee next week?/sent///0/0/
+21957/42304,4242361111/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+21957/42318,6281134259/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+26355/42310,6199189815/Digital content strategy - brief chat/sent///0/0/
+26355/42345,4668287037/Coffee next week?/sent///0/0/
+14256/42299,3621990741/Digital content strategy - brief chat/sent///1/0/
+14256/42318,628125/Coffee next week?/sent///0/0/
+19694/42299,3622106481/Digital content strategy - brief chat/sent///0/0/
+19694/42318,6281365741/Coffee next week?/sent///0/0/
+26340/42310,6199421296/Digital content strategy - brief chat/sent///0/0/
+26340/42345,4668055556/Coffee next week?/sent///0/0/
+"16540/42293,3649305556/Digital content strategy - brief chat/bounced///0/0/smtp; 550 Kevin.Kennedy@notes.thewarrantygroup.com... No such user
+
+--==IFJRGLKFGIR2943270UHRUHIHD"
+"16540/42318,6281828704/Coffee next week?/bounced///0/0/smtp; 550 Kevin.Kennedy@notes.thewarrantygroup.com... No such user
+
+--==IFJRGLKFGIR3006422UHRUHIHD"
+15711/42297,3564351852/Digital content strategy - brief chat/sent///0/0/
+15711/42318,6282060185/Coffee next week?/sent///0/0/
+"47084/42327,4442013889/Coffee next week?/soft-bounced///0/0/x-unix; Quota exceeded.
+
+--A86D3405E9.1447929581/drd02-uk.mfg.hannover.hostway"
+"47084/42345,4720717593/Coffee next week?/soft-bounced///0/0/x-unix; Quota exceeded.
+
+--B102F40542.1449487189/drd01-uk.mfg.hannover.hostway"
+1965/42268,4024305556/Kevin, digital content strategy - brief chat/sent///2/0/
+1965/42318,6282407407/Coffee next week?/sent///1/0/
+16477/42293,3649421296/Digital content strategy - brief chat/sent///0/0/
+16477/42318,6282638889/Coffee next week?/sent///0/0/
+19541/42299,3622222222/Digital content strategy - brief chat/sent///0/0/
+19541/42318,628287037/Coffee next week?/sent///0/0/
+38892/42320,5117013889/Coffee next week?/sent///0/0/
+38892/42345,4688541667/Coffee next week?/sent///0/0/
+38892/42348,3741782407/Coffee next week?/sent///0/0/
+19433/42299,3622337963/Digital content strategy - brief chat/sent///1/0/
+19433/42318,6282986111/Coffee next week?/sent///0/0/
+24846/42306,4087962963/Digital content strategy - brief chat/sent///0/0/
+24846/42318,6283101852/Coffee next week?/sent///0/0/
+59425/42349,5058333333/Coffee next week?/sent///1/0/
+59425/42349,5116898148/Coffee next week?/sent///9/0/
+56246/42348,3750115741/Coffee next week?/sent///0/0/
+35485/42317,4269328704/Coffee next week?/sent///0/0/
+35485/42345,468125/Coffee next week?/sent///0/0/
+35150/42317,4269560185/Coffee next week?/sent///0/0/
+35150/42345,4675462963/Coffee next week?/sent///0/0/
+46598/42327,444212963/Coffee next week?/sent///24/0/
+46598/42345,4660879629/Coffee next week?/sent///11/0/
+44695/42325,3963657407/Coffee next week?/sent///0/0/
+44695/42345,4700578704/Coffee next week?/sent///0/0/
+56408/42348,3752777778/Coffee next week?/sent///0/0/
+23665/42305,4140740741/Digital content strategy - brief chat/sent///0/0/
+23665/42318,6283333333/Coffee next week?/sent///0/0/
+17912/42298,3675347222/Digital content strategy - brief chat/sent///0/0/
+17912/42318,6283564815/Coffee next week?/sent///0/0/
+47095/42327,444224537/Coffee next week?/sent///1/1/
+13081/42290,3587384259/Digital content strategy - brief chat/sent///2/0/
+13081/42318,6283680556/Coffee next week?/sent///4/0/
+46752/42327,4442361111/Coffee next week?/sent///4/0/
+44667/42325,3973148148/Coffee next week?/sent///2/0/
+19417/42299,3622337963/Digital content strategy - brief chat/sent///3/1/
+19417/42318,6283912037/Coffee next week?/sent///0/0/
+45878/42327,4442476852/Coffee next week?/sent///1/0/
+45878/42345,4708217593/Coffee next week?/sent///1/0/
+17461/42297,3569097222/Digital content strategy - brief chat/sent///0/0/
+17461/42318,6284027778/Coffee next week?/sent///0/0/
+34537/42319,4563194444/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+34537/42319,4569097222/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+37238/42317,4263078704/Coffee next week?/sent///4/0/
+35670/42319,4562962963/Coffee next week?/sent///0/0/
+35670/42319,4568865741/Coffee next week?/sent///0/0/
+43490/42349,5063541667/Coffee next week?/sent///0/0/
+43490/42349,5122337962/Coffee next week?/sent///0/0/
+24970/42306,4080671296/Digital content strategy - brief chat/sent///0/0/
+24970/42318,6284143518/Coffee next week?/sent///1/0/
+44684/42325,3973263889/Coffee next week?/sent///1/0/
+44684/42345,4700231481/Coffee next week?/sent///1/0/
+21967/42304,4242476852/Digital content strategy - brief chat/sent///3/0/
+21967/42318,6284259259/Coffee next week?/sent///0/0/
+7447/42275,3826736111/Lara, digital content strategy - brief chat/sent///0/0/
+7447/42345,4662615741/Coffee next week?/sent///0/0/
+56331/42348,3751041667/Coffee next week?/sent///0/0/
+44705/42325,397337963/Coffee next week?/sent///1/0/
+44705/42345,4701041667/Coffee next week?/sent///1/0/
+62916/42352,3503356481/Content meet early Jan?/sent///0/0/
+24962/42306,4087847222/Digital content strategy - brief chat/sent///0/0/
+24962/42318,6284375/Coffee next week?/sent///0/0/
+56095/42348,3749074074/Coffee next week?/sent///0/0/
+41289/42320,510775463/Coffee next week?/sent///0/0/
+41289/42345,4694791666/Coffee next week?/sent///0/0/
+41289/42348,3747106481/Coffee next week?/sent///0/0/
+15968/42292,3852083333/Digital content strategy - brief chat/sent///0/0/
+15968/42318,6284606481/Coffee next week?/sent///0/0/
+44729/42325,3968518519/Coffee next week?/sent///11/0/
+47033/42327,4442592593/Coffee next week?/sent///1/0/
+47033/42345,4719212963/Coffee next week?/sent///0/0/
+2387/42268,4024421296/Laura, digital content strategy - brief chat/sent///1/0/
+2387/42318,628587963/Coffee next week?/sent///1/0/
+17491/42297,3566087963/Digital content strategy - brief chat/sent///0/0/
+17491/42304,4243518518/Digital content strategy - brief chat/sent///0/0/
+17491/42318,6286111111/Coffee next week?/sent///0/0/
+17534/42297,3564930556/Digital content strategy - brief chat/sent///2/0/
+17534/42318,6286574074/Coffee next week?/sent///1/0/
+47069/42327,4442708333/Coffee next week?/sent///0/0/
+47069/42345,4720138889/Coffee next week?/sent///0/0/
+37167/42317,4263194444/Coffee next week?/sent///0/0/
+37167/42345,4683333333/Coffee next week?/sent///4/0/
+5040/42271,4365740741/Laura, digital content strategy - brief chat/sent///0/0/
+5040/42318,6286805556/Coffee next week?/sent///0/0/
+9338/42279,5124189815/Laura, digital content strategy - brief chat/sent///0/0/
+9338/42318,62875/Coffee next week?/sent///0/0/
+17446/42297,3565277778/Digital content strategy - brief chat/sent///3/1/
+17446/42318,6287731481/Coffee next week?/sent///22/1/
+4892/42271,4365740741/Lauren, digital content strategy - brief chat/sent///0/0/
+4892/42318,6287962963/Coffee next week?/sent///0/0/
+26518/42311,4878125/Digital content strategy - brief chat/sent///0/0/
+26518/42345,4659490741/Coffee next week?/sent///0/0/
+41302/42320,511724537/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+24888/42306,4087962963/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+24888/42318,6288078704/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17438/42297,3565740741/Digital content strategy - brief chat/sent///0/0/
+17438/42304,4242592593/Digital content strategy - brief chat/sent///0/0/
+17438/42318,6288194444/Coffee next week?/sent///0/0/
+19431/42299,3622453704/Digital content strategy - brief chat/sent///1/0/
+19431/42318,6288310185/Coffee next week?/sent///1/0/
+22736/42305,4141087963/Digital content strategy - brief chat/sent///0/0/
+22736/42318,6288541667/Coffee next week?/sent///1/0/
+6073/42276,3546990741/Louise, digital content strategy - brief chat/sent///8/0/
+6073/42293,3649537037/Digital content strategy - brief chat/sent///1/0/
+9095/42279,5120717593/Leanne, digital content strategy - brief chat/sent///0/0/
+9095/42305,4143981481/Digital content strategy - brief chat/sent///0/0/
+9095/42318,6288657407/Coffee next week?/sent///0/0/
+46747/42327,4443981481/Coffee next week?/sent///1/1/
+46747/42345,4715509259/Coffee next week?/sent///8/0/
+59459/42349,5063657407/Coffee next week?/sent///3/0/
+59459/42349,5122453704/Coffee next week?/sent///2/0/
+26426/42311,4878240741/Digital content strategy - brief chat/sent///0/0/
+26426/42345,4669444444/Coffee next week?/sent///0/0/
+44814/42325,3973611111/Coffee next week?/sent///0/0/
+44814/42345,4706365741/Coffee next week?/sent///0/0/
+47136/42327,4444097222/Coffee next week?/sent///2/1/
+47136/42345,4721875/Coffee next week?/sent///3/0/
+4972/42271,4365856481/Leon, digital content strategy - brief chat/sent///0/0/
+4972/42318,628900463/Coffee next week?/sent///0/0/
+7723/42275,3826851852/Leonard, digital content strategy - brief chat/sent///0/0/
+7723/42318,628912037/Coffee next week?/sent///1/0/
+47074/42327,4444212963/Coffee next week?/sent///0/0/
+47074/42345,472037037/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+53548/42348,3731944444/Coffee next week?/sent///1/0/
+54805/42348,3745949074/Coffee next week?/sent///0/0/
+26503/42310,6200115741/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.4.1 [Lewi.Watkins@microsoft.com]: Recipient address rejected: Access denied
+26352/42310,6200231481/Digital content strategy - brief chat/sent///0/0/
+26352/42345,4668171296/Coffee next week?/sent///0/0/
+43428/42324,6234953704/Coffee next week?/sent///0/0/
+43428/42324,6241435185/Coffee next week?/sent///0/0/
+43428/42349,5063773148/Coffee next week?/sent///0/0/
+43428/42349,5122685185/Coffee next week?/sent///0/0/
+35323/42317,4269675926/Coffee next week?/sent///1/1/
+35323/42345,4678935185/Coffee next week?/sent///0/0/
+35484/42317,4269791667/Coffee next week?/sent///1/0/
+35484/42345,4681134259/Coffee next week?/sent///3/1/
+62817/42352,3502777778/Content meet early Jan?/sent///1/0/
+16311/42293,3648611111/Digital content strategy - brief chat/sent///0/0/
+16311/42318,6289467593/Coffee next week?/sent///0/0/
+38891/42320,5117476852/Coffee next week?/sent///0/0/
+38891/42345,4688310185/Coffee next week?/sent///3/0/
+38891/42348,3741666667/Coffee next week?/sent///0/0/
+35297/42317,4269907407/Coffee next week?/sent///0/0/
+35297/42345,4678009259/Coffee next week?/sent///0/0/
+19536/42299,3622569444/Digital content strategy - brief chat/sent///0/0/
+19536/42318,6289699074/Coffee next week?/sent///0/0/
+41395/42324,6233796296/Coffee next week?/sent///0/0/
+41395/42324,6240162037/Coffee next week?/sent///0/0/
+41395/42349,5058564815/Coffee next week?/sent///0/0/
+41395/42349,5117476852/Coffee next week?/sent///0/0/
+43469/42324,6235300926/Coffee next week?/sent///1/0/
+43469/42324,6241782407/Coffee next week?/sent///1/0/
+46896/42327,4444328704/Coffee next week?/sent///0/0/
+46896/42345,4717708333/Coffee next week?/sent///0/0/
+7480/42275,3826967593/Liyana, digital content strategy - brief chat/sent///22/0/
+7480/42318,6289930556/Coffee next week?/sent///3/0/
+17631/42297,356875/Digital content strategy - brief chat/sent///0/0/
+17631/42318,6290162037/Coffee next week?/sent///1/0/
+46818/42327,4444444444/Coffee next week?/sent///0/0/
+46818/42345,4715740741/Coffee next week?/sent///0/0/
+17537/42297,3565856482/Digital content strategy - brief chat/sent///0/0/
+17537/42318,6290393519/Coffee next week?/sent///0/0/
+15652/42292,3852199074/Digital content strategy - brief chat/sent///0/0/
+15652/42318,6290972222/Coffee next week?/sent///0/0/
+26560/42311,4878356481/Digital content strategy - brief chat/sent///1/0/
+26560/42345,4673842593/Coffee next week?/sent///2/1/
+40750/42320,5107986111/Coffee next week?/sent///1/0/
+40750/42348,3742824074/Coffee next week?/sent///0/0/
+9126/42279,5121643519/Lucy, digital content strategy - brief chat/soft-bounced///0/0/smtp;550 5.7.1 Mailbox unavailable, please send support requests to tablet.support@uk.captec-group.com
+9126/42306,4084490741/Digital content strategy - brief chat/soft-bounced///0/0/smtp;550 5.7.1 Mailbox unavailable, please send support requests to tablet.support@uk.captec-group.com
+9126/42318,6292361111/Coffee next week?/soft-bounced///0/0/smtp;550 5.7.1 Mailbox unavailable, please send support requests to tablet.support@uk.captec-group.com
+53615/42348,3734953704/Coffee next week?/sent///2/0/
+9341/42279,5124305556/Lois, digital content strategy - brief chat/sent///0/0/
+9341/42318,6292708333/Coffee next week?/sent///0/0/
+7948/42275,3826967593/Lora, digital content strategy - brief chat/sent///2/0/
+7948/42318,6292824074/Coffee next week?/sent///2/0/
+35189/42317,4270023148/Coffee next week?/sent///4/0/
+35189/42345,4676157407/Coffee next week?/sent///2/0/
+4246/42271,4365856481/Lorna, digital content strategy - brief chat/sent///1/0/
+4246/42318,6293402778/Coffee next week?/sent///0/0/
+9345/42276,3547569444/Lorrayne, digital content strategy - brief chat/sent///3/0/
+9345/42318,6293634259/Coffee next week?/sent///1/0/
+24955/42306,4087152778/Digital content strategy - brief chat/sent///1/0/
+24955/42318,6293865741/Coffee next week?/sent///22/2/
+7458/42275,3827083333/Lottie, digital content strategy - brief chat/sent///1/0/
+7458/42318,6294097222/Coffee next week?/sent///1/0/
+35146/42317,4270138889/Coffee next week?/sent///3/1/
+62358/42352,351099537/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+15267/42292,3852314815/Digital content strategy - brief chat/sent///0/0/
+15267/42318,6294444444/Coffee next week?/sent///0/0/
+17532/42297,3565972222/Digital content strategy - brief chat/sent///0/0/
+17532/42318,6294560185/Coffee next week?/sent///1/0/
+6130/42276,3547106481/Louiza, digital content strategy - brief chat/sent///4/0/
+6130/42318,6295023148/Coffee next week?/sent///1/1/
+29343/42319,4562847222/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+29343/42319,456875/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+5765/42276,3546759259/Emma, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+5765/42318,6295486111/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+9073/42279,5120138889/Leona, digital content strategy - brief chat/sent///0/0/
+9073/42318,6295601852/Coffee next week?/sent///0/0/
+15367/42292,3852430556/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+15367/42318,6295717593/Coffee next week?/rejected///0/0/
+45405/42327,4444560185/Coffee next week?/sent///2/1/
+45405/42327,4444675926/Coffee next week?/sent///1/0/
+17553/42297,3564583333/Digital content strategy - brief chat/sent///1/0/
+17553/42318,6295949074/Coffee next week?/sent///0/0/
+41341/42324,6233217593/Coffee next week?/sent///2/0/
+41341/42324,6239583333/Coffee next week?/sent///1/0/
+41341/42348,3749652778/Coffee next week?/sent///4/0/
+17466/42297,3566319444/Digital content strategy - brief chat/sent///0/0/
+17466/42318,6296412037/Coffee next week?/sent///0/0/
+25997/42311,4878472222/Digital content strategy - brief chat/sent///0/0/
+25997/42345,4662152778/Coffee next week?/sent///0/0/
+17433/42296,511712963/Digital content strategy - brief chat/sent///0/0/
+17433/42318,6296527778/Coffee next week?/sent///1/0/
+6050/42276,3546990741/Lucy, digital content strategy - brief chat/sent///0/0/
+6050/42296,511724537/Digital content strategy - brief chat/sent///0/0/
+6050/42318,6296643519/Coffee next week?/sent///0/0/
+62433/42352,3504166667/Content meet early Jan?/sent///1/0/
+16874/42317,4270254629/Coffee next week?/sent///0/0/
+16874/42345,4678356481/Coffee next week?/sent///0/0/
+33854/42319,4562962963/Coffee next week?/sent///0/0/
+33854/42319,456875/Coffee next week?/sent///0/0/
+41281/42320,5117708333/Coffee next week?/sent///25/0/
+35152/42317,427037037/Coffee next week?/sent///3/1/
+35152/42345,4675694444/Coffee next week?/sent///1/0/
+15335/42292,3852430556/Digital content strategy - brief chat/sent///4/1/
+9260/42279,5123611111/Laura, digital content strategy - brief chat/sent///0/0/
+9260/42318,6296759259/Coffee next week?/sent///0/0/
+41113/42348,3744560185/Coffee next week?/soft-bounced///0/0/smtp;552 5.2.2 The email account that you tried to reach is over quota. Please direct the recipient to https://support.google.com/mail/answer/6558 q7si7454703ywe.103 - gsmtp
+22847/42305,4142592593/Digital content strategy - brief chat/sent///3/0/
+22847/42318,6296990741/Coffee next week?/sent///12/0/
+46087/42327,4444791667/Coffee next week?/sent///0/0/
+46087/42345,4709027778/Coffee next week?/sent///0/0/
+7542/42275,3827083333/Melis, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+7542/42318,6297222222/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+16025/42297,356400463/Digital content strategy - brief chat/bounced///0/0/
+16025/42318,6297916667/Coffee next week?/bounced///0/0/
+19520/42299,3619444444/Digital content strategy - brief chat/sent///3/0/
+19520/42318,6298032407/Coffee next week?/sent///0/0/
+35281/42317,427037037/Coffee next week?/bounced///0/0/smtp;550 5.1.1 User unknown
+37172/42317,4263310185/Coffee next week?/sent///0/0/
+37172/42345,4683449074/Coffee next week?/sent///0/0/
+17637/42297,3565625/Digital content strategy - brief chat/sent///0/0/
+17637/42318,6298148148/Coffee next week?/sent///0/0/
+40844/42320,5118055556/Coffee next week?/sent///0/0/
+40844/42345,4689814815/Coffee next week?/sent///3/0/
+40844/42348,374375/Coffee next week?/sent///0/0/
+14649/42291,3786458333/Digital content strategy - brief chat/sent///17/0/
+14649/42318,6298263889/Coffee next week?/sent///1/0/
+17901/42298,3675462963/Digital content strategy - brief chat/sent///0/0/
+17901/42318,629849537/Coffee next week?/sent///0/0/
+9066/42279,5120023148/Maria, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9066/42318,6298611111/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+"21959/42304,4242708333/Digital content strategy - brief chat/soft-bounced///0/0/smtp;554-5.2.2 mailbox full
+ 554 5.2.2 STOREDRV.Deliver.Exception:QuotaExceededException.MapiExceptionShutoffQuotaExceeded; Failed to process message due to a permanent exception with message Cannot open mailbox /o=DoH/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=IMSWBULEXB003/cn=Microsoft System Attendant. 16.55847:C8000000, 17.43559:0000000020010000000000000000000000000000, 255.23226:0E000000, 255.27962:FE000000, 255.17082:DD040000, 0.26937:00000000, 4.21921:DD040000, 255.27962:FA000000, 255.1494:00000000, 255.26426:FE000000, 0.22086:0F010480, 0.25876:1DFAFFFF, 4.7588:0F010480, 0.25840:0F010480, 4.6564:0F010480, 0.56333:0F010480, 4.6372:05000780, 0.24916:0F010480, 4.6276:05000780, 4.5721:DD040000, 4.6489:DD040000, 0.34743:0F010480, 4.2199:DD040000, 0.56415:0F010480, 4.48223:DD040000, 4.17097:DD040000, 4.8620:DD040000, 255.1750:00000000, 0.26849:00000000, 255.21817:DD040000, 0.26297:00000000, 4.16585:DD040000, 0.32441:0F010480, 4.1706:DD040000, 0.24761:00000000, 4.20665:DD0
+ 40000, 0.25785:00000000, 4.29881:DD040000"
+"21959/42318,6298842593/Coffee next week?/soft-bounced///0/0/smtp;554-5.2.2 mailbox full
+ 554 5.2.2 STOREDRV.Deliver.Exception:QuotaExceededException.MapiExceptionShutoffQuotaExceeded; Failed to process message due to a permanent exception with message Cannot open mailbox /o=DoH/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=IMSWBULEXB003/cn=Microsoft System Attendant. 16.55847:C8000000, 17.43559:0000000020010000000000000F00000000000000, 255.23226:00000000, 255.27962:FE000000, 255.17082:DD040000, 0.26937:00000000, 4.21921:DD040000, 255.27962:FA000000, 255.1494:00000000, 255.26426:FE000000, 0.22086:0F010480, 0.25876:0F010480, 4.7588:0F010480, 0.25840:0F010480, 4.6564:0F010480, 0.56333:0F010480, 4.6372:05000780, 0.24916:0F010480, 4.6276:05000780, 4.5721:DD040000, 4.6489:DD040000, 0.34743:0F010480, 4.2199:DD040000, 0.56415:B0840C80, 4.48223:DD040000, 4.17097:DD040000, 4.8620:DD040000, 255.1750:9E000000, 0.26849:0F010480, 255.21817:DD040000, 0.26297:0E000000, 4.16585:DD040000, 0.32441:0F010480, 4.1706:DD040000, 0.24761:0F010480, 4.20665:DD0
+ 40000, 0.25785:00000000, 4.29881:DD040000"
+62006/42352,3499768519/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+3593/42268,4024768519/Marie, digital content strategy - brief chat/sent///0/0/
+3593/42318,6298958333/Coffee next week?/sent///0/0/
+23518/42305,4144907407/Digital content strategy - brief chat/sent///0/0/
+23518/42318,6299421296/Coffee next week?/sent///2/0/
+33916/42319,4558564815/Coffee next week?/sent///2/0/
+33916/42319,4565277778/Coffee next week?/sent///2/0/
+17564/42297,3566550926/Digital content strategy - brief chat/sent///1/0/
+17564/42318,6299537037/Coffee next week?/sent///2/0/
+35344/42317,4265509259/Coffee next week?/sent///0/0/
+35344/42345,4679166667/Coffee next week?/sent///1/0/
+47131/42327,4444907407/Coffee next week?/sent///0/0/
+47131/42345,4721759259/Coffee next week?/sent///0/0/
+47131/42348,3731481481/Coffee next week?/sent///0/0/
+4881/42271,4365972222/Mark, digital content strategy - brief chat/sent///1/0/
+4881/42318,63/Coffee next week?/sent///1/0/
+1932/42268,4024884259/Mark, digital content strategy - brief chat/sent///0/0/
+1932/42318,6300231482/Coffee next week?/sent///0/0/
+23499/42305,4144097222/Digital content strategy - brief chat/sent///0/0/
+23499/42318,6300462963/Coffee next week?/sent///0/0/
+43414/42324,6231597222/Coffee next week?/sent///0/0/
+43414/42324,6237962963/Coffee next week?/sent///0/0/
+43414/42349,5054166667/Coffee next week?/sent///0/0/
+43414/42349,5113194444/Coffee next week?/sent///0/0/
+46555/42327,4445023148/Coffee next week?/sent///0/0/
+46555/42345,4711805556/Coffee next week?/sent///0/0/
+46218/42327,4445138889/Coffee next week?/sent///0/0/
+46218/42345,4710185185/Coffee next week?/sent///0/0/
+14436/42291,3785648148/Digital content strategy - brief chat/sent///1/0/
+14436/42318,6300578704/Coffee next week?/sent///0/0/
+9329/42279,5124189815/Martin, digital content strategy - brief chat/bounced///0/0/smtp;550 5.4.1 [Martin.Penney@eniram.fi]: Recipient address rejected: Access denied
+9329/42318,6301388889/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Martin.Penney@eniram.fi]: Recipient address rejected: Access denied
+3850/42271,4366087963/Martina, digital content strategy - brief chat/sent///7/0/
+3850/42291,3783680556/Digital content strategy - brief chat/sent///6/0/
+35316/42317,4270486111/Coffee next week?/sent///0/0/
+35316/42345,4678587963/Coffee next week?/sent///5/0/
+9094/42279,5120717593/Mary, digital content strategy - brief chat/sent///25/4/
+9094/42305,4142939815/Digital content strategy - brief chat/sent///0/0/
+9094/42318,6301504629/Coffee next week?/sent///0/0/
+9178/42279,5122569444/Maryke, digital content strategy - brief chat/sent///1/0/
+9178/42318,630162037/Coffee next week?/sent///1/0/
+15749/42299,3622685185/Digital content strategy - brief chat/sent///1/0/
+15749/42318,6301736111/Coffee next week?/sent///0/0/
+47070/42327,444525463/Coffee next week?/sent///0/0/
+46985/42327,4445486111/Coffee next week?/sent///1/0/
+46985/42345,4718402777/Coffee next week?/sent///1/0/
+43459/42324,6232060185/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+43459/42324,6238425926/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+43459/42349,5054282407/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+43459/42349,5113310185/Coffee next week?/rejected///0/0/
+6574/42276,3547453704/Matt, digital content strategy - brief chat/sent///6/0/
+6574/42345,4662384259/Coffee next week?/sent///3/0/
+43375/42324,6230787037/Coffee next week?/sent///0/0/
+43375/42324,6237152778/Coffee next week?/sent///0/0/
+43375/42349,5054398148/Coffee next week?/sent///0/0/
+43375/42349,5113541667/Coffee next week?/sent///0/0/
+24927/42306,4084606481/Digital content strategy - brief chat/sent///2/0/
+24927/42318,6301851852/Coffee next week?/sent///1/0/
+46724/42327,4445717593/Coffee next week?/sent///3/0/
+46724/42345,471412037/Coffee next week?/sent///1/0/
+22961/42305,4142708333/Digital content strategy - brief chat/sent///0/0/
+22961/42318,6301967593/Coffee next week?/sent///0/0/
+17578/42304,4243634259/Digital content strategy - brief chat/sent///0/0/
+17578/42318,6302199074/Coffee next week?/sent///0/0/
+26554/42311,4878703704/Digital content strategy - brief chat/sent///0/0/
+26554/42345,467337963/Coffee next week?/sent///0/0/
+47764/42348,3732523148/Coffee next week?/soft-bounced///0/0/smtp;451 4.3.0 <Matthew.James@worldfirst.com>: Temporary lookup failure
+31678/42319,4560069444/Coffee next week?/bounced///0/0/
+31678/42319,4566435185/Coffee next week?/bounced///0/0/
+35365/42317,4265625/Coffee next week?/sent///0/0/
+35365/42345,4679282407/Coffee next week?/sent///0/0/
+58998/42349,506400463/Coffee next week?/sent///1/0/
+58998/42349,5122800926/Coffee next week?/sent///1/0/
+34161/42317,4263425926/Coffee next week?/sent///2/0/
+34161/42345,4682523148/Coffee next week?/sent///0/0/
+37195/42317,4263541667/Coffee next week?/sent///0/0/
+37195/42345,4684259259/Coffee next week?/sent///0/0/
+46487/42327,4445833333/Coffee next week?/sent///0/0/
+46487/42345,4660532407/Coffee next week?/sent///1/0/
+6539/42276,3547222222/Maya, digital content strategy - brief chat/sent///1/0/
+6539/42318,6302546296/Coffee next week?/sent///1/0/
+22018/42304,4242824074/Digital content strategy - brief chat/sent///0/0/
+22018/42318,6302662037/Coffee next week?/sent///0/0/
+7620/42275,3827199074/Michael, digital content strategy - brief chat/sent///1/1/
+7620/42305,4143055556/Digital content strategy - brief chat/sent///0/0/
+7620/42318,6302893519/Coffee next week?/sent///0/0/
+43410/42324,6231481481/Coffee next week?/sent///0/0/
+43410/42324,6237847222/Coffee next week?/sent///0/0/
+43410/42349,505462963/Coffee next week?/sent///1/0/
+43410/42349,511400463/Coffee next week?/sent///1/0/
+44732/42325,3963773148/Coffee next week?/sent///2/0/
+24949/42306,4081712963/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.4.1 [MCurtis@egain.com]: Recipient address rejected: Access denied
+24949/42318,6303703704/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [MCurtis@egain.com]: Recipient address rejected: Access denied
+24864/42306,4086805556/Digital content strategy - brief chat/sent///3/0/
+24864/42318,6303935185/Coffee next week?/sent///1/0/
+4953/42271,4366087963/Mehmet, digital content strategy - brief chat/sent///0/0/
+4953/42318,6304050926/Coffee next week?/sent///0/0/
+9113/42279,5121296296/Melanie, digital content strategy - brief chat/sent///0/0/
+9113/42311,4878819444/Digital content strategy - brief chat/sent///0/0/
+9113/42318,6304282407/Coffee next week?/sent///0/0/
+53602/42348,3734837963/Coffee next week?/sent///0/0/
+44813/42325,3963888889/Coffee next week?/sent///1/0/
+44813/42345,470625/Coffee next week?/sent///1/0/
+41310/42320,5118287037/Coffee next week?/sent///1/0/
+41310/42345,4660416667/Coffee next week?/sent///0/0/
+7499/42275,3827199074/Merit, digital content strategy - brief chat/sent///15/1/
+7499/42318,6304513888/Coffee next week?/sent///0/0/
+46655/42327,4445949074/Coffee next week?/sent///4/0/
+46655/42345,4712847222/Coffee next week?/sent///6/0/
+35719/42319,4563078704/Coffee next week?/sent///0/0/
+35719/42319,4568981481/Coffee next week?/sent///0/0/
+55010/42348,374849537/Coffee next week?/sent///0/0/
+13171/42292,3852546296/Digital content strategy - brief chat/sent///1/0/
+13171/42318,630462963/Coffee next week?/sent///1/0/
+26356/42311,4878935185/Digital content strategy - brief chat/sent///0/0/
+26356/42345,4668402778/Coffee next week?/sent///7/0/
+62056/42352,3507175926/Content meet early Jan?/deferred///0/0/
+3952/42271,4366203704/Michael, digital content strategy - brief chat/sent///0/0/
+3952/42318,6304976852/Coffee next week?/sent///0/0/
+4202/42271,4366203704/Michael, digital content strategy - brief chat/sent///1/0/
+4202/42318,6305092593/Coffee next week?/sent///0/0/
+54574/42348,3740046296/Coffee next week?/sent///2/0/
+41342/42324,6229513889/Coffee next week?/sent///0/0/
+41342/42324,623599537/Coffee next week?/sent///0/0/
+44620/42325,3973611111/Coffee next week?/sent///0/0/
+44620/42345,4697106481/Coffee next week?/sent///0/0/
+14148/42290,3588194444/Digital content strategy - brief chat/sent///6/0/
+14148/42318,6305208333/Coffee next week?/sent///3/0/
+24788/42306,408587963/Digital content strategy - brief chat/sent///2/1/
+24788/42318,6305324074/Coffee next week?/sent///1/0/
+23455/42305,4140393519/Digital content strategy - brief chat/sent///0/0/
+23455/42318,6305439815/Coffee next week?/sent///0/0/
+14548/42291,3786689815/Digital content strategy - brief chat/sent///1/0/
+14548/42318,6305555556/Coffee next week?/sent///3/0/
+17403/42296,5117361111/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17403/42318,6305787037/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17510/42297,356412037/Digital content strategy - brief chat/sent///3/1/
+17510/42318,6306134259/Coffee next week?/sent///2/0/
+9286/42279,5123958333/Mike, digital content strategy - brief chat/sent///1/0/
+9286/42310,6200347222/Digital content strategy - brief chat/sent///1/0/
+9286/42318,630625/Coffee next week?/sent///1/0/
+4294/42271,4366319444/Mike, digital content strategy - brief chat/sent///0/0/
+4294/42318,6306365741/Coffee next week?/sent///0/0/
+16664/42293,3649652778/Digital content strategy - brief chat/sent///1/0/
+16664/42318,6306481482/Coffee next week?/sent///0/0/
+41264/42320,5112037037/Coffee next week?/sent///0/0/
+41264/42345,4694097222/Coffee next week?/sent///0/0/
+16001/42292,3852662037/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 User Unknown
+16001/42318,6306712963/Coffee next week?/bounced///0/0/smtp;550 5.1.1 User Unknown
+1926/42271,4366319444/Miranda, digital content strategy - brief chat/sent///0/0/
+1926/42318,6307523148/Coffee next week?/sent///0/0/
+47019/42327,4446180556/Coffee next week?/bounced///0/0/smtp;550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596 d67si723439ywb.71 - gsmtp
+38888/42320,5118518519/Coffee next week?/sent///0/0/
+38888/42345,4688078704/Coffee next week?/sent///9/0/
+26235/42311,4879166667/Digital content strategy - brief chat/sent///1/0/
+26235/42345,4666435185/Coffee next week?/sent///2/0/
+47931/42348,3735532407/Coffee next week?/sent///1/0/
+2012/42268,4025115741/Mumtaz, digital content strategy - brief chat/sent///0/0/
+2012/42318,6307638889/Coffee next week?/sent///0/0/
+47082/42327,4446296296/Coffee next week?/sent///0/0/
+47082/42345,4720601852/Coffee next week?/sent///0/0/
+17563/42297,3568634259/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17563/42318,630775463/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+34083/42319,4562268518/Coffee next week?/sent///0/0/
+34083/42319,4568287037/Coffee next week?/sent///0/0/
+17407/42296,5117476852/Digital content strategy - brief chat/sent///9/0/
+17407/42318,6308101852/Coffee next week?/sent///1/0/
+46551/42327,4446412037/Coffee next week?/sent///5/0/
+46551/42345,4711689815/Coffee next week?/sent///1/0/
+59428/42349,506412037/Coffee next week?/sent///1/0/
+59428/42349,5123032407/Coffee next week?/sent///0/0/
+37112/42317,4263657407/Coffee next week?/sent///0/0/
+37112/42345,4682060185/Coffee next week?/sent///4/0/
+4252/42271,4366319444/Mark, digital content strategy - brief chat/sent///2/1/
+4252/42318,6308333333/Coffee next week?/sent///1/0/
+36222/42319,4559375/Coffee next week?/sent///0/0/
+36222/42319,4565972222/Coffee next week?/sent///0/0/
+5126/42271,4366435185/Mudit, digital content strategy - brief chat/sent///0/0/
+5126/42318,6308449074/Coffee next week?/sent///0/0/
+9449/42276,3548263889/Mukai, digital content strategy - brief chat/sent///1/1/
+9449/42318,6308680556/Coffee next week?/sent///0/0/
+2383/42268,4025115741/Munira, digital content strategy - brief chat/sent///0/0/
+2383/42292,3852777778/Digital content strategy - brief chat/sent///0/0/
+2383/42318,6309027778/Coffee next week?/sent///1/0/
+16738/42296,5117592593/Digital content strategy - brief chat/sent///0/0/
+16738/42318,6309490741/Coffee next week?/sent///0/0/
+59353/42349,505474537/Coffee next week?/sent///0/0/
+59353/42349,511412037/Coffee next week?/sent///0/0/
+62971/42352,3504050926/Content meet early Jan?/sent///0/0/
+34761/42319,4559027778/Coffee next week?/sent///0/0/
+34761/42319,4565625/Coffee next week?/sent///1/1/
+13306/42297,3567013889/Digital content strategy - brief chat/sent///2/0/
+44821/42327,4446527778/Coffee next week?/sent///0/0/
+44821/42345,4706828704/Coffee next week?/sent///0/0/
+35545/42317,4270601852/Coffee next week?/sent///2/0/
+35545/42345,4681828704/Coffee next week?/sent///1/0/
+17913/42298,3675578704/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17913/42318,6309606481/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17543/42297,3568055556/Digital content strategy - brief chat/sent///0/0/
+17543/42318,6309722222/Coffee next week?/sent///0/0/
+43464/42324,623287037/Coffee next week?/sent///0/0/
+43464/42324,6239236111/Coffee next week?/sent///0/0/
+43464/42349,5058796296/Coffee next week?/sent///0/0/
+43464/42349,5117592593/Coffee next week?/sent///0/0/
+9353/42279,5124652778/Neeta, digital content strategy - brief chat/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+9353/42318,6309953704/Coffee next week?/bounced///0/0/smtp;550 #5.1.0 Address rejected.
+41318/42320,5118981482/Coffee next week?/sent///12/3/
+41318/42345,4695601852/Coffee next week?/sent///0/0/
+41318/42348,3753009259/Coffee next week?/sent///0/0/
+41249/42320,5108101852/Coffee next week?/sent///0/0/
+41249/42345,4693402778/Coffee next week?/sent///0/0/
+41249/42348,3752199074/Coffee next week?/sent///0/0/
+14098/42291,378587963/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+14098/42318,6310069444/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+17541/42297,3565162037/Digital content strategy - brief chat/sent///0/0/
+17541/42318,6310185185/Coffee next week?/sent///0/0/
+19574/42299,3622800926/Digital content strategy - brief chat/sent///0/0/
+19574/42318,6310300926/Coffee next week?/sent///3/0/
+9134/42279,5121875/Neetika, digital content strategy - brief chat/sent///6/0/
+9134/42318,6310416667/Coffee next week?/sent///0/0/
+9192/42279,5122916667/Natalie, digital content strategy - brief chat/sent///0/0/
+9192/42311,4879282407/Digital content strategy - brief chat/sent///0/0/
+9192/42318,6310532407/Coffee next week?/sent///0/0/
+21960/42304,424375/Digital content strategy - brief chat/sent///0/0/
+21960/42318,6310648148/Coffee next week?/sent///0/0/
+16313/42293,3648726852/Digital content strategy - brief chat/sent///1/0/
+16313/42318,631087963/Coffee next week?/sent///0/0/
+59300/42349,5064467593/Coffee next week?/sent///0/0/
+59300/42349,5123148148/Coffee next week?/sent///0/0/
+43420/42324,6234722222/Coffee next week?/sent///1/0/
+43420/42324,6241203704/Coffee next week?/sent///2/0/
+47128/42327,4446990741/Coffee next week?/soft-bounced///0/0/smtp;554 Mail loop detected - https://community.mimecast.com/docs/DOC-1369#554
+47128/42345,4721412037/Coffee next week?/soft-bounced///0/0/smtp;554 Mail loop detected - https://community.mimecast.com/docs/DOC-1369#554
+47128/42348,3729861111/Coffee next week?/sent///0/0/
+37118/42317,4263773148/Coffee next week?/sent///0/0/
+37118/42345,4682407407/Coffee next week?/bounced///0/0/smtp;550 invalid user
+45854/42327,4447106481/Coffee next week?/sent///2/1/
+45854/42345,4707986111/Coffee next week?/sent///1/0/
+15523/42292,3852893518/Digital content strategy - brief chat/sent///0/0/
+15523/42318,631099537/Coffee next week?/sent///12/0/
+46786/42327,4447106481/Coffee next week?/sent///0/0/
+46786/42345,4715625/Coffee next week?/sent///0/0/
+9231/42279,5123263889/Nicola, digital content strategy - brief chat/sent///0/0/
+9231/42305,4141203704/Digital content strategy - brief chat/sent///1/0/
+9231/42318,6311226852/Coffee next week?/sent///0/0/
+44717/42325,3973842593/Coffee next week?/sent///0/0/
+44717/42345,4702430556/Coffee next week?/sent///0/0/
+7508/42275,3827314815/Nicola, digital content strategy - brief chat/sent///0/0/
+7508/42306,4087384259/Digital content strategy - brief chat/sent///0/0/
+7508/42318,6311689815/Coffee next week?/sent///0/0/
+24875/42306,4085069444/Digital content strategy - brief chat/sent///0/0/
+24875/42318,6311805556/Coffee next week?/sent///0/0/
+7865/42275,3827314815/Nicolette, digital content strategy - brief chat/sent///0/0/
+7865/42318,6313078704/Coffee next week?/sent///0/0/
+41274/42320,5112384259/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+62903/42352,3503240741/Content meet early Jan?/sent///1/0/
+44606/42325,3973958333/Coffee next week?/sent///1/0/
+44606/42345,4696412037/Coffee next week?/sent///1/0/
+40853/42320,5119444444/Coffee next week?/sent///0/0/
+40853/42345,4690393519/Coffee next week?/sent///0/0/
+40853/42348,3743055556/Coffee next week?/sent///0/0/
+7744/42275,3827430556/Nina, digital content strategy - brief chat/sent///1/0/
+7744/42318,6313194444/Coffee next week?/sent///2/0/
+1928/42269,6319907407/Nisha, digital content strategy - brief chat/sent///0/0/
+1928/42290,35875/Digital content strategy - brief chat/sent///0/0/
+1928/42318,6313310185/Coffee next week?/sent///0/0/
+36342/42319,4559606481/Coffee next week?/sent///0/0/
+36342/42319,4566203704/Coffee next week?/sent///0/0/
+35526/42317,4270717593/Coffee next week?/sent///2/0/
+35526/42345,4660069444/Coffee next week?/sent///0/0/
+59025/42349,5064699074/Coffee next week?/sent///4/0/
+59025/42349,5123263889/Coffee next week?/sent///1/0/
+4933/42271,4366435185/Nitin, digital content strategy - brief chat/sent///0/0/
+4933/42297,3564699074/Digital content strategy - brief chat/sent///1/0/
+4933/42318,6313541667/Coffee next week?/sent///1/0/
+47058/42327,4447222222/Coffee next week?/sent///3/0/
+46566/42327,4447337963/Coffee next week?/sent///0/0/
+46566/42345,4712037037/Coffee next week?/sent///0/0/
+9392/42276,3547916667/Natasha, digital content strategy - brief chat/sent///2/0/
+9392/42318,6313657407/Coffee next week?/sent///1/0/
+23536/42305,4140972222/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+23536/42318,6313888889/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+46581/42327,4447453704/Coffee next week?/sent///1/0/
+46581/42345,4712152778/Coffee next week?/sent///2/0/
+35209/42317,4265856482/Coffee next week?/sent///0/0/
+35209/42345,4676736111/Coffee next week?/sent///0/0/
+9438/42279,5125347222/Olga, digital content strategy - brief chat/sent///1/0/
+13958/42290,3588773148/Digital content strategy - brief chat/sent///0/0/
+13958/42318,631412037/Coffee next week?/sent///0/0/
+44654/42325,3974305556/Coffee next week?/sent///1/0/
+44654/42345,4698032407/Coffee next week?/sent///1/0/
+62759/42352,3505555556/Content meet early Jan?/sent///1/0/
+44766/42325,3974421296/Coffee next week?/sent///6/0/
+31581/42319,4559259259/Coffee next week?/sent///1/0/
+31581/42319,4565856481/Coffee next week?/sent///1/0/
+16023/42298,3675694444/Digital content strategy - brief chat/sent///0/0/
+16023/42318,6314236111/Coffee next week?/sent///0/0/
+22893/42305,4139930556/Digital content strategy - brief chat/sent///0/0/
+22893/42318,6314467593/Coffee next week?/sent///0/0/
+4123/42271,4366550926/Orla, digital content strategy - brief chat/sent///2/0/
+4123/42318,6314699074/Coffee next week?/sent///0/0/
+19659/42299,3622916667/Digital content strategy - brief chat/sent///2/0/
+41073/42320,5108217593/Coffee next week?/sent///25/1/
+41073/42348,3743865741/Coffee next week?/sent///0/0/
+26081/42311,4879398148/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.4.1 [overholtc@avanade.com]: Recipient address rejected: Access denied
+4241/42271,4366550926/Pablo, digital content strategy - brief chat/sent///0/0/
+4241/42318,6315162037/Coffee next week?/sent///0/0/
+4241/42348,3742013889/Coffee next week?/sent///0/0/
+56465/42348,3753240741/Coffee next week?/sent///0/0/
+62271/42352,3501273148/Content meet early Jan?/sent///0/0/
+"9172/42279,5122453704/Paola, digital content strategy - brief chat/bounced///0/0/smtp; 5.1.0 - Unknown address error 550-'5.1.1 <Paola@cisco.com>... User unknown' (delivery attempts: 0)
+
+--9vV7Z.58HucOccF.2H67MA3VneU.3VEGfZz"
+"9172/42318,6315393519/Coffee next week?/bounced///0/0/smtp; 5.1.0 - Unknown address error 550-'5.1.1 <Paola@cisco.com>... User unknown' (delivery attempts: 0)
+
+--ANsFV.5934OX/63.7MW2ar1Nsdk.EB5//D5"
+46582/42327,4447569444/Coffee next week?/sent///4/2/
+47023/42327,4447685185/Coffee next week?/sent///0/0/
+47023/42345,4718865741/Coffee next week?/sent///0/0/
+41234/42320,5119675926/Coffee next week?/sent///0/0/
+41234/42345,4693055556/Coffee next week?/sent///0/0/
+17892/42298,3675810185/Digital content strategy - brief chat/sent///0/0/
+17892/42304,4243865741/Digital content strategy - brief chat/sent///0/0/
+17892/42318,6315509259/Coffee next week?/sent///1/0/
+23035/42305,4139814815/Digital content strategy - brief chat/sent///1/0/
+23035/42318,6315625/Coffee next week?/sent///6/0/
+41231/42320,5108449074/Coffee next week?/sent///0/0/
+41231/42345,4692824074/Coffee next week?/sent///6/0/
+"54997/42348,3748032407/Coffee next week?/soft-bounced///0/0/smtp; 554 Mail loop detected -
+    https://community.mimecast.com/docs/DOC-1369#554
+
+--6C2D660017.1449738024/inbd2.baplc.com"
+46917/42327,4447800926/Coffee next week?/sent///0/0/
+46917/42345,4717939815/Coffee next week?/sent///0/0/
+17547/42297,3565393519/Digital content strategy - brief chat/sent///0/0/
+17547/42304,4243981481/Digital content strategy - brief chat/sent///0/0/
+17547/42318,6315972222/Coffee next week?/sent///0/0/
+10237/42297,3566898148/Digital content strategy - brief chat/sent///1/0/
+10237/42318,6316087963/Coffee next week?/sent///0/0/
+41151/42320,5119907407/Coffee next week?/sent///0/0/
+41151/42345,4692013889/Coffee next week?/sent///0/0/
+41151/42348,3744675926/Coffee next week?/sent///0/0/
+47063/42327,4448032407/Coffee next week?/sent///0/0/
+47063/42345,4720138889/Coffee next week?/sent///0/0/
+17937/42298,3675925926/Digital content strategy - brief chat/sent///3/1/
+17937/42318,6316203704/Coffee next week?/sent///1/0/
+19747/42299,3619560185/Digital content strategy - brief chat/sent///2/0/
+44719/42325,3974537037/Coffee next week?/sent///0/0/
+44719/42345,4702662037/Coffee next week?/sent///0/0/
+35423/42317,4265972222/Coffee next week?/sent///1/0/
+35423/42345,4659606482/Coffee next week?/sent///0/0/
+4018/42271,4366666667/Paul, digital content strategy - brief chat/sent///0/0/
+4018/42296,5117708333/Digital content strategy - brief chat/sent///0/0/
+19413/42299,3619675926/Digital content strategy - brief chat/sent///0/0/
+19413/42318,6316435185/Coffee next week?/sent///0/0/
+15989/42292,3853009259/Digital content strategy - brief chat/sent///1/0/
+15989/42318,6316550926/Coffee next week?/sent///1/0/
+"46979/42327,4448148148/Coffee next week?/soft-bounced///0/0/smtp; 554 5.4.6 Hop count exceeded - possible mail loop
+
+--8022C34D543.1447936967/antispam.glanmail.com"
+"46979/42345,4718287037/Coffee next week?/soft-bounced///0/0/smtp; 554 5.4.6 Hop count exceeded - possible mail loop
+
+--13CB934D50B.1449494503/antispam.glanmail.com"
+21954/42304,4243981481/Digital content strategy - brief chat/sent///0/0/
+21954/42318,6316782407/Coffee next week?/sent///0/0/
+35490/42317,4266203704/Coffee next week?/sent///0/0/
+35490/42345,4681365741/Coffee next week?/sent///1/0/
+35291/42317,4266319444/Coffee next week?/sent///2/0/
+35291/42345,4677893519/Coffee next week?/sent///7/1/
+18656/42298,3675925926/Digital content strategy - brief chat/sent///0/0/
+18656/42318,6317013889/Coffee next week?/sent///0/0/
+24780/42306,4088078704/Digital content strategy - brief chat/sent///0/0/
+24780/42318,631712963/Coffee next week?/sent///2/0/
+26038/42310,6200462963/Digital content strategy - brief chat/sent///0/0/
+26038/42345,4664467593/Coffee next week?/sent///0/0/
+14634/42290,3590393519/Digital content strategy - brief chat/sent///6/0/
+19426/42299,3619791667/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+19426/42318,631724537/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+22833/42305,4140277778/Digital content strategy - brief chat/sent///0/0/
+22833/42318,6317361111/Coffee next week?/sent///0/0/
+17425/42296,5117824074/Digital content strategy - brief chat/sent///1/0/
+17425/42318,6317476852/Coffee next week?/sent///1/0/
+35173/42317,4270833333/Coffee next week?/sent///2/0/
+35173/42345,4676041667/Coffee next week?/sent///0/0/
+15975/42292,3853125/Digital content strategy - brief chat/sent///0/0/
+15975/42318,6317592593/Coffee next week?/sent///0/0/
+22776/42305,4143287037/Digital content strategy - brief chat/sent///1/0/
+22776/42318,6317708333/Coffee next week?/sent///1/0/
+35304/42317,4266435185/Coffee next week?/sent///0/0/
+35304/42345,4678125/Coffee next week?/sent///1/0/
+3792/42271,4366666667/Pablo, digital content strategy - brief chat/sent///0/0/
+3792/42318,6317824074/Coffee next week?/sent///1/1/
+46192/42327,4448263889/Coffee next week?/bounced///0/0/smtp;550 5.7.1 Recipient rejected (R7)
+45358/42327,444837963/Coffee next week?/sent///0/0/
+45358/42345,4707407407/Coffee next week?/sent///0/0/
+59359/42349,5064930556/Coffee next week?/sent///0/0/
+59359/42349,512349537/Coffee next week?/sent///0/0/
+22836/42305,4144791667/Digital content strategy - brief chat/sent///0/0/
+22836/42318,6317939815/Coffee next week?/sent///10/0/
+43380/42324,6230902778/Coffee next week?/sent///1/1/
+43380/42324,6237268519/Coffee next week?/sent///0/0/
+43380/42349,5054861111/Coffee next week?/sent///0/0/
+43380/42349,5114236111/Coffee next week?/sent///0/0/
+34096/42319,4559722222/Coffee next week?/sent///15/0/
+34096/42319,4566319444/Coffee next week?/sent///0/0/
+17440/42297,3568518519/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+17440/42318,6318055556/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+35903/42319,455787037/Coffee next week?/sent///0/0/
+35903/42319,4564814815/Coffee next week?/sent///0/0/
+26020/42310,6200578704/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+40787/42320,512025463/Coffee next week?/sent///0/0/
+40787/42345,4689351852/Coffee next week?/sent///0/0/
+14208/42291,3783912037/Digital content strategy - brief chat/sent///1/0/
+14208/42318,6318171296/Coffee next week?/sent///1/0/
+44608/42325,3974652778/Coffee next week?/sent///0/0/
+44608/42345,4696759259/Coffee next week?/sent///0/0/
+47086/42327,444849537/Coffee next week?/sent///0/0/
+47086/42345,4661574074/Coffee next week?/sent///0/0/
+17445/42297,3564236111/Digital content strategy - brief chat/sent///0/0/
+17445/42304,4244097222/Digital content strategy - brief chat/sent///0/0/
+17445/42318,6318402778/Coffee next week?/sent///0/0/
+59002/42349,5065277778/Coffee next week?/sent///0/0/
+59002/42349,5123611111/Coffee next week?/sent///0/0/
+2146/42269,6320138889/Rachel, digital content strategy - brief chat/sent///2/0/
+2146/42318,631875/Coffee next week?/sent///1/0/
+40850/42320,5120486111/Coffee next week?/sent///1/0/
+40850/42345,4690277778/Coffee next week?/sent///1/0/
+40850/42348,3743634259/Coffee next week?/sent///1/0/
+5005/42271,4366782407/Rachel, digital content strategy - brief chat/sent///0/0/
+5005/42318,6319097222/Coffee next week?/sent///0/0/
+"15359/42292,3853125/Digital content strategy - brief chat/soft-bounced///0/0/X-Notes; Recipient user name Rachel (Rachel@marsh.com
+ ) not unique.  Several matches found in Domino Directory.
+
+--==IFJRGLKFGIR22697982UHRUHIHD"
+"15359/42318,6319212963/Coffee next week?/bounced///0/0/X-Notes; User Rachel (Rachel@marsh.com) not listed in
+  Domino Directory
+
+--==IFJRGLKFGIR14531630UHRUHIHD"
+37157/42317,4260763889/Coffee next week?/sent///0/0/
+37157/42345,4660300926/Coffee next week?/sent///0/0/
+4224/42271,4366782407/Rafael, digital content strategy - brief chat/sent///7/0/
+23511/42305,4141435185/Digital content strategy - brief chat/sent///0/0/
+23511/42318,6319328704/Coffee next week?/sent///0/0/
+37249/42317,4263773148/Coffee next week?/sent///0/0/
+37249/42345,4685648148/Coffee next week?/sent///10/1/
+23418/42305,4141087963/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+23418/42318,6319444444/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+23626/42305,414212963/Digital content strategy - brief chat/sent///0/0/
+23626/42318,6319791667/Coffee next week?/sent///1/0/
+9228/42279,5123263889/Rani, digital content strategy - brief chat/sent///2/0/
+9228/42311,4879513889/Digital content strategy - brief chat/sent///0/0/
+9228/42318,6319907407/Coffee next week?/sent///0/0/
+24763/42306,4087731481/Digital content strategy - brief chat/sent///0/0/
+24763/42318,6320023148/Coffee next week?/sent///1/0/
+17927/42298,3673726852/Digital content strategy - brief chat/sent///0/0/
+17927/42318,6320138889/Coffee next week?/sent///0/0/
+14019/42290,3587962963/Digital content strategy - brief chat/sent///2/1/
+14019/42318,632025463/Coffee next week?/sent///0/0/
+17441/42297,3567824074/Digital content strategy - brief chat/sent///0/0/
+17441/42318,632037037/Coffee next week?/sent///0/0/
+23671/42305,4141550926/Digital content strategy - brief chat/sent///0/0/
+23671/42318,6321180556/Coffee next week?/sent///0/0/
+26042/42311,487962963/Digital content strategy - brief chat/sent///0/0/
+26042/42345,4664583333/Coffee next week?/sent///0/0/
+19628/42299,3622916667/Digital content strategy - brief chat/sent///0/0/
+19628/42318,6321296296/Coffee next week?/sent///0/0/
+53620/42348,3735185185/Coffee next week?/sent///0/0/
+7572/42275,3827430556/Ross, digital content strategy - brief chat/sent///0/0/
+7572/42305,4143865741/Digital content strategy - brief chat/sent///0/0/
+7572/42318,6321412037/Coffee next week?/sent///0/0/
+15770/42292,3853240741/Digital content strategy - brief chat/sent///0/0/
+15770/42318,6321643519/Coffee next week?/sent///0/0/
+17448/42297,3568981482/Digital content strategy - brief chat/sent///0/0/
+17448/42318,6322453704/Coffee next week?/sent///0/0/
+59233/42349,5065393519/Coffee next week?/sent///0/0/
+59233/42349,5123726852/Coffee next week?/sent///0/0/
+9119/42279,5121527778/Richard, digital content strategy - brief chat/sent///0/0/
+9119/42318,6322800926/Coffee next week?/sent///0/0/
+26253/42311,4879861111/Digital content strategy - brief chat/sent///0/0/
+26253/42345,4666666667/Coffee next week?/sent///0/0/
+16785/42296,5117939815/Digital content strategy - brief chat/sent///3/1/
+16785/42318,6322916667/Coffee next week?/sent///4/0/
+26386/42310,6200694444/Digital content strategy - brief chat/sent///0/0/
+26386/42345,4668865741/Coffee next week?/sent///0/0/
+45369/42327,4448611111/Coffee next week?/sent///2/0/
+14034/42291,3785069444/Digital content strategy - brief chat/sent///0/0/
+14034/42318,6323032407/Coffee next week?/sent///0/0/
+9363/42279,5124768519/Richard, digital content strategy - brief chat/sent///1/0/
+16658/42293,3649652778/Digital content strategy - brief chat/sent///0/0/
+16658/42318,6323263889/Coffee next week?/sent///0/0/
+15671/42292,3853356481/Digital content strategy - brief chat/sent///0/0/
+15671/42318,632337963/Coffee next week?/sent///0/0/
+41242/42320,5120717593/Coffee next week?/sent///0/0/
+41242/42345,4693171296/Coffee next week?/sent///0/0/
+59262/42349,5065625/Coffee next week?/sent///0/0/
+59262/42349,5123842593/Coffee next week?/sent///0/0/
+26488/42311,4879976852/Digital content strategy - brief chat/sent///0/0/
+26488/42345,4671180556/Coffee next week?/sent///0/0/
+56135/42348,3749537037/Coffee next week?/sent///0/0/
+4923/42271,4366898148/Richard, digital content strategy - brief chat/sent///3/1/
+4923/42318,632349537/Coffee next week?/sent///7/1/
+2296/42269,632037037/Richard, digital content strategy - brief chat/sent///0/0/
+14651/42269,6320486111/Richard, digital content strategy - brief chat/sent///0/0/
+14651/42345,4663310185/Coffee next week?/sent///0/0/
+2285/42276,3546527777/Richard, digital content strategy - brief chat/sent///0/0/
+2285/42318,6324074074/Coffee next week?/sent///5/0/
+"26359/42310,6200925926/Digital content strategy - brief chat/bounced///0/0/X-Notes; User Richard (Richard@pitneybowes.com) not li
+ sted in Domino Directory"
+5905/42276,3546875/Richard, digital content strategy - brief chat/sent///0/0/
+5905/42318,6324421296/Coffee next week?/sent///0/0/
+9325/42279,5124074074/Richard, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9325/42318,6324537037/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+44820/42327,4448726852/Coffee next week?/sent///1/0/
+44820/42345,4706597222/Coffee next week?/sent///7/0/
+22799/42305,414375/Digital content strategy - brief chat/sent///1/0/
+22799/42318,6324652778/Coffee next week?/sent///2/1/
+46889/42327,4448842593/Coffee next week?/sent///0/0/
+46889/42345,4717592593/Coffee next week?/sent///4/0/
+26446/42310,6201041667/Digital content strategy - brief chat/sent///0/0/
+26446/42345,4669791667/Coffee next week?/sent///1/0/
+14264/42290,3588310185/Digital content strategy - brief chat/sent///1/0/
+14264/42318,6324884259/Coffee next week?/sent///1/0/
+4586/42271,4366898148/Rumyana, digital content strategy - brief chat/sent///2/0/
+4586/42318,6325/Coffee next week?/sent///5/0/
+44787/42325,3964236111/Coffee next week?/sent///1/0/
+44787/42345,470474537/Coffee next week?/sent///2/0/
+14138/42291,3784953704/Digital content strategy - brief chat/sent///2/0/
+14138/42318,632511574/Coffee next week?/sent///18/2/
+14065/42291,3785185185/Digital content strategy - brief chat/sent///12/1/
+14065/42318,6325347222/Coffee next week?/sent///0/0/
+#N/A
+46642/42327,4448958333/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [rob@proximospirits.com]: Recipient address rejected: Access denied
+#N/A
+17909/42298,3676157407/Digital content strategy - brief chat/sent///1/0/
+17909/42318,6325462963/Coffee next week?/sent///1/0/
+26515/42311,4880092593/Digital content strategy - brief chat/sent///0/0/
+26515/42345,4671990741/Coffee next week?/sent///0/0/
+7878/42275,3827546296/Sarah, digital content strategy - brief chat/sent///0/0/
+7878/42318,6325925926/Coffee next week?/sent///0/0/
+24248/42317,4270949074/Coffee next week?/sent///0/0/
+24248/42345,4677662037/Coffee next week?/sent///0/0/
+26487/42311,487650463/Digital content strategy - brief chat/sent///0/0/
+26487/42345,4670949074/Coffee next week?/sent///0/0/
+8728/42275,3827546296/Roger, digital content strategy - brief chat/sent///0/0/
+8728/42318,6326157407/Coffee next week?/sent///0/0/
+35087/42317,4271064815/Coffee next week?/sent///0/0/
+35087/42345,4674537037/Coffee next week?/sent///1/0/
+37233/42317,426400463/Coffee next week?/sent///0/0/
+37233/42345,4685185185/Coffee next week?/sent///0/0/
+14035/42290,3587731481/Digital content strategy - brief chat/sent///5/0/
+43384/42324,6231134259/Coffee next week?/sent///0/0/
+43384/42324,62375/Coffee next week?/sent///0/0/
+43384/42349,5055439815/Coffee next week?/sent///0/0/
+43384/42349,5114467593/Coffee next week?/sent///0/0/
+14490/42290,3589236111/Digital content strategy - brief chat/sent///0/0/
+14490/42318,6326273148/Coffee next week?/sent///0/0/
+9467/42276,3548263889/Rosie, digital content strategy - brief chat/bounced///0/0/smtp; 550 5.1.1 User unknown
+9467/42318,6326388889/Coffee next week?/bounced///0/0/smtp; 550 5.1.1 User unknown
+44782/42325,3974768519/Coffee next week?/sent///0/0/
+44782/42345,470462963/Coffee next week?/sent///0/0/
+7498/42275,3827662037/Raquel, digital content strategy - brief chat/sent///0/0/
+7498/42318,632662037/Coffee next week?/sent///0/0/
+36227/42319,4557291667/Coffee next week?/sent///0/0/
+36227/42319,4564351852/Coffee next week?/sent///0/0/
+2409/42269,6320601852/Rachel, digital content strategy - brief chat/sent///0/0/
+2409/42292,3853472222/Digital content strategy - brief chat/sent///0/0/
+2409/42318,6326851852/Coffee next week?/sent///0/0/
+7518/42275,3827777778/Rachna, digital content strategy - brief chat/sent///0/0/
+7518/42318,6327083333/Coffee next week?/sent///0/0/
+34296/42319,4556944444/Coffee next week?/sent///0/0/
+34296/42319,456412037/Coffee next week?/sent///2/0/
+59294/42349,5055671296/Coffee next week?/sent///0/0/
+59294/42349,5114583333/Coffee next week?/sent///0/0/
+14628/42291,3784837963/Digital content strategy - brief chat/sent///2/0/
+14628/42318,6327199074/Coffee next week?/sent///3/0/
+4223/42271,4367013889/Rudy, digital content strategy - brief chat/sent///0/0/
+4223/42318,6327546296/Coffee next week?/sent///1/0/
+1950/42269,6320833333/Ruhul, digital content strategy - brief chat/sent///0/0/
+1950/42318,6327777778/Coffee next week?/sent///7/0/
+59343/42349,5055787037/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+59343/42349,5114699074/Coffee next week?/rejected///0/0/
+14820/42325,3975/Coffee next week?/sent///1/0/
+14820/42345,4706018519/Coffee next week?/sent///5/0/
+9409/42279,5125115741/Ruth, digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+9409/42318,6327893519/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+10179/42296,5118055556/Digital content strategy - brief chat/sent///1/0/
+10179/42318,6328009259/Coffee next week?/sent///0/0/
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+43416/42324,6234606481/Coffee next week?/sent///3/0/
+43416/42324,6241087963/Coffee next week?/sent///0/0/
+43416/42349,5065740741/Coffee next week?/sent///0/0/
+43416/42349,5123958333/Coffee next week?/sent///0/0/
+7718/42275,3827893519/Stephen, digital content strategy - brief chat/sent///2/1/
+7718/42318,6328240741/Coffee next week?/sent///2/0/
+54696/42348,3742592593/Coffee next week?/sent///0/0/
+17866/42297,3565509259/Digital content strategy - brief chat/sent///1/0/
+17866/42318,6328356481/Coffee next week?/sent///1/0/
+38877/42320,5120949074/Coffee next week?/sent///0/0/
+38877/42345,4687847222/Coffee next week?/sent///0/0/
+38877/42348,3740277778/Coffee next week?/sent///0/0/
+1953/42269,6320833333/Sahil, digital content strategy - brief chat/sent///0/0/
+1953/42318,6328587963/Coffee next week?/sent///14/1/
+35095/42317,4266550926/Coffee next week?/sent///0/0/
+35095/42345,4674652778/Coffee next week?/sent///0/0/
+59128/42349,5059259259/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+59128/42349,5117708333/Coffee next week?/rejected///0/0/
+59253/42349,5059375/Coffee next week?/sent///1/0/
+59253/42349,5117824074/Coffee next week?/sent///1/1/
+41259/42320,5121180556/Coffee next week?/sent///1/0/
+41259/42327,4449074074/Coffee next week?/sent///1/0/
+6547/42276,3547337963/Sam, digital content strategy - brief chat/sent///0/0/
+6547/42318,6329050926/Coffee next week?/sent///10/1/
+6547/42348,3738541667/Coffee next week?/sent///1/1/
+47024/42327,4449189815/Coffee next week?/sent///0/0/
+47024/42345,4718981481/Coffee next week?/sent///0/0/
+15953/42292,3853587963/Digital content strategy - brief chat/sent///1/0/
+15953/42318,6329166667/Coffee next week?/sent///1/0/
+19761/42299,3619907407/Digital content strategy - brief chat/sent///20/0/
+46076/42327,4449652778/Coffee next week?/sent///2/0/
+46076/42345,4708796296/Coffee next week?/sent///0/0/
+9442/42276,3548148148/Sameer, digital content strategy - brief chat/sent///1/0/
+9442/42318,6329398148/Coffee next week?/sent///1/0/
+4238/42271,4367013889/Sammy, digital content strategy - brief chat/sent///5/0/
+4238/42318,632962963/Coffee next week?/sent///0/0/
+35106/42317,4266666667/Coffee next week?/sent///0/0/
+35106/42345,4675115741/Coffee next week?/sent///0/0/
+14345/42291,3784027778/Digital content strategy - brief chat/sent///10/0/
+14345/42318,632974537/Coffee next week?/sent///19/0/
+15969/42292,3853703704/Digital content strategy - brief chat/sent///0/0/
+15969/42318,6329861111/Coffee next week?/sent///0/0/
+36355/42319,4560185185/Coffee next week?/sent///0/0/
+36355/42319,4566550926/Coffee next week?/sent///0/0/
+26310/42311,4876736111/Digital content strategy - brief chat/sent///0/0/
+26310/42345,4667708333/Coffee next week?/sent///0/0/
+62886/42352,3511342593/Content meet early Jan?/sent///5/0/
+24945/42306,4085185185/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+24945/42318,6329976852/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [santosa@avanade.com]: Recipient address rejected: Access denied
+14025/42290,3587847222/Digital content strategy - brief chat/sent///0/0/
+14025/42318,6330092593/Coffee next week?/sent///11/0/
+15421/42292,3853819444/Digital content strategy - brief chat/sent///0/0/
+15421/42318,6330324074/Coffee next week?/sent///0/0/
+5974/42276,3546875/Sarah, digital content strategy - brief chat/sent///0/0/
+5974/42318,6330671296/Coffee next week?/sent///0/0/
+37180/42317,426087963/Coffee next week?/sent///0/0/
+37180/42345,4683912037/Coffee next week?/sent///0/0/
+54546/42348,3738425926/Coffee next week?/sent///3/0/
+47805/42348,373287037/Coffee next week?/sent///0/0/
+59490/42349,5065972222/Coffee next week?/sent///0/0/
+59490/42349,5124074074/Coffee next week?/sent///0/0/
+44603/42325,3964467593/Coffee next week?/sent///0/0/
+44603/42345,4696296296/Coffee next week?/sent///0/0/
+56558/42348,3755439815/Coffee next week?/sent///0/0/
+54571/42348,3739930556/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+2360/42269,6320949074/Sarah, digital content strategy - brief chat/sent///0/0/
+2360/42318,6331018519/Coffee next week?/sent///1/0/
+24952/42306,4085648148/Digital content strategy - brief chat/sent///0/0/
+24952/42318,6331134259/Coffee next week?/sent///0/0/
+7693/42275,3827893519/Sarah, digital content strategy - brief chat/sent///0/0/
+7693/42318,6331365741/Coffee next week?/sent///1/0/
+26491/42310,6197916667/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.4.1 [Sarah.Thomas@microsoft.com]: Recipient address rejected: Access denied
+4352/42271,436712963/Sarah, digital content strategy - brief chat/sent///0/0/
+4352/42318,6331597222/Coffee next week?/sent///0/0/
+9457/42279,5125578704/Sarah, digital content strategy - brief chat/sent///0/0/
+9457/42318,6331712963/Coffee next week?/sent///0/0/
+15694/42292,3853935185/Digital content strategy - brief chat/sent///0/0/
+15694/42318,6332175926/Coffee next week?/sent///0/0/
+14644/42290,358900463/Digital content strategy - brief chat/sent///0/0/
+14644/42318,6332291667/Coffee next week?/sent///0/0/
+9099/42279,5120833333/Sarah, digital content strategy - brief chat/sent///0/0/
+9099/42318,6332523148/Coffee next week?/sent///0/0/
+2112/42269,6320949074/Sarah, digital content strategy - brief chat/sent///0/0/
+2112/42318,6332986111/Coffee next week?/sent///0/0/
+55032/42348,3748726852/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+47045/42327,4449768519/Coffee next week?/sent///0/0/
+47045/42345,4719560185/Coffee next week?/sent///0/0/
+35070/42317,4266782407/Coffee next week?/sent///0/0/
+26435/42311,4876851852/Digital content strategy - brief chat/sent///0/0/
+26435/42345,4669675926/Coffee next week?/sent///0/0/
+46550/42327,4449884259/Coffee next week?/bounced///0/0/smtp;550 5.1.1 <SB@telstra.com> recipient rejected. IB603a
+14141/42291,3785763889/Digital content strategy - brief chat/sent///0/0/
+14141/42318,6333101852/Coffee next week?/sent///0/0/
+41084/42320,5121296296/Coffee next week?/sent///0/0/
+41084/42345,4690856481/Coffee next week?/sent///0/0/
+41084/42348,374525463/Coffee next week?/sent///0/0/
+19032/42299,3620023148/Digital content strategy - brief chat/sent///0/0/
+19032/42318,6333217593/Coffee next week?/sent///0/0/
+41382/42324,6230208333/Coffee next week?/sent///0/0/
+41382/42324,6236689814/Coffee next week?/sent///0/0/
+41382/42349,5055902778/Coffee next week?/sent///7/1/
+41382/42349,5114814815/Coffee next week?/sent///0/0/
+22678/42305,4141782407/Digital content strategy - brief chat/sent///0/0/
+22678/42318,6333564815/Coffee next week?/sent///0/0/
+35193/42317,4271180556/Coffee next week?/sent///1/0/
+35193/42345,467662037/Coffee next week?/sent///1/0/
+19542/42299,3620023148/Digital content strategy - brief chat/sent///2/1/
+19542/42318,6333912037/Coffee next week?/sent///0/0/
+48035/42348,3736921296/Coffee next week?/sent///0/0/
+44658/42325,3975115741/Coffee next week?/sent///0/0/
+44658/42345,4698263889/Coffee next week?/sent///0/0/
+44827/42327,445/Coffee next week?/sent///2/0/
+44827/42345,4707291667/Coffee next week?/sent///5/0/
+19273/42299,3623032407/Digital content strategy - brief chat/sent///1/0/
+19273/42318,6334375/Coffee next week?/sent///0/0/
+4416/42271,436712963/Stephen, digital content strategy - brief chat/sent///0/0/
+4416/42318,6334606481/Coffee next week?/sent///0/0/
+4416/42348,3746875/Coffee next week?/sent///1/0/
+4489/42271,436724537/Steven, digital content strategy - brief chat/sent///0/0/
+4489/42318,6334953704/Coffee next week?/sent///1/0/
+48053/42348,3729398148/Coffee next week?/sent///0/0/
+40807/42320,5121527778/Coffee next week?/sent///2/0/
+40807/42345,4689467593/Coffee next week?/sent///1/0/
+40807/42348,3743287037/Coffee next week?/sent///1/0/
+18510/42298,3676157407/Digital content strategy - brief chat/sent///1/0/
+18510/42318,6335069444/Coffee next week?/sent///1/0/
+41323/42320,5121990741/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Shane.Smith@oliver.agency]: Recipient address rejected: Access denied
+62764/42352,3505902778/Content meet early Jan?/sent///2/0/
+47061/42327,445011574/Coffee next week?/sent///1/0/
+47061/42345,4719907407/Coffee next week?/sent///0/0/
+5141/42271,436724537/Shaun, digital content strategy - brief chat/sent///1/0/
+5141/42318,6335532407/Coffee next week?/sent///1/0/
+10504/42317,426099537/Coffee next week?/sent///0/0/
+10504/42345,4662731482/Coffee next week?/sent///1/0/
+59228/42349,5066087963/Coffee next week?/sent///1/0/
+59228/42349,5124421296/Coffee next week?/sent///1/0/
+44621/42325,3964699074/Coffee next week?/sent///0/0/
+44621/42345,4697222222/Coffee next week?/sent///0/0/
+41132/42320,5108796296/Coffee next week?/sent///0/0/
+41132/42345,4691898148/Coffee next week?/sent///0/0/
+41132/42348,375462963/Coffee next week?/sent///0/0/
+14018/42290,3587152778/Digital content strategy - brief chat/sent///1/0/
+14018/42318,6335648148/Coffee next week?/sent///0/0/
+31576/42319,4558217593/Coffee next week?/sent///1/0/
+31576/42319,4565046296/Coffee next week?/sent///0/0/
+35456/42317,4271296296/Coffee next week?/sent///1/0/
+35456/42345,4659722222/Coffee next week?/sent///2/0/
+14232/42290,3589351852/Digital content strategy - brief chat/sent///0/0/
+14232/42318,6335763889/Coffee next week?/sent///0/0/
+47129/42327,4450231481/Coffee next week?/sent///23/0/
+4297/42271,4367361111/Shira, digital content strategy - brief chat/sent///1/0/
+4297/42318,633599537/Coffee next week?/sent///1/1/
+5163/42271,4367361111/Sarah, digital content strategy - brief chat/sent///0/0/
+5163/42296,5118171296/Digital content strategy - brief chat/sent///0/0/
+5163/42318,6336226852/Coffee next week?/sent///0/0/
+26466/42310,6198032407/Digital content strategy - brief chat/sent///0/0/
+26466/42345,467037037/Coffee next week?/sent///0/0/
+15573/42292,3854050926/Digital content strategy - brief chat/sent///0/0/
+15573/42318,6336342593/Coffee next week?/sent///0/0/
+44765/42325,3975231481/Coffee next week?/sent///1/0/
+44765/42345,4704398148/Coffee next week?/sent///0/0/
+44765/42348,3746412037/Coffee next week?/sent///1/0/
+26215/42310,6198726852/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.4.1 [Silvia.Milanova@microsoft.com]: Recipient address rejected: Access denied
+47118/42327,4450347222/Coffee next week?/sent///0/0/
+47118/42345,4721064815/Coffee next week?/sent///0/0/
+33890/42319,4561921296/Coffee next week?/sent///0/0/
+33890/42319,4568055556/Coffee next week?/sent///3/0/
+15810/42299,3623148148/Digital content strategy - brief chat/sent///0/0/
+15810/42318,6336458333/Coffee next week?/sent///0/0/
+41278/42320,5122337962/Coffee next week?/sent///0/0/
+41278/42345,4694444444/Coffee next week?/sent///0/0/
+24865/42306,4086111111/Digital content strategy - brief chat/sent///0/0/
+24865/42318,6336574074/Coffee next week?/sent///0/0/
+15980/42292,3854050926/Digital content strategy - brief chat/sent///0/0/
+15980/42318,6336689815/Coffee next week?/sent///0/0/
+15284/42292,3854166667/Digital content strategy - brief chat/sent///5/0/
+15284/42318,6336805556/Coffee next week?/sent///0/0/
+47760/42348,3732060185/Coffee next week?/sent///0/0/
+37179/42317,4261111111/Coffee next week?/sent///0/0/
+37179/42345,4683796296/Coffee next week?/sent///0/0/
+46461/42327,4450462963/Coffee next week?/sent///0/0/
+46461/42345,4711111111/Coffee next week?/sent///0/0/
+3723/42271,4367476852/Simon, digital content strategy - brief chat/sent///0/0/
+3723/42318,6337037037/Coffee next week?/sent///0/0/
+46876/42327,4451851852/Coffee next week?/soft-bounced///0/0/smtp;450 4.7.1 <Simon.Wren@jackwills.com>: Relay access unavailable.
+46876/42345,471724537/Coffee next week?/soft-bounced///0/0/smtp;450 4.7.1 <Simon.Wren@jackwills.com>: Relay access unavailable.
+4186/42271,4367592593/Simon, digital content strategy - brief chat/sent///1/0/
+4186/42318,6337615741/Coffee next week?/sent///2/0/
+4070/42271,4367592593/simon, digital content strategy - brief chat/sent///0/0/
+4070/42318,6338078704/Coffee next week?/sent///1/0/
+2172/42269,6321180556/Simon, digital content strategy - brief chat/sent///0/0/
+2172/42318,6338194444/Coffee next week?/sent///1/0/
+4552/42271,4367708333/Simone, digital content strategy - brief chat/sent///2/0/
+4552/42318,6338425925/Coffee next week?/sent///1/0/
+19717/42299,3620138889/Digital content strategy - brief chat/sent///1/0/
+19717/42318,6338541667/Coffee next week?/sent///2/0/
+10267/42298,3673842593/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+10267/42318,6338657407/Coffee next week?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+7485/42275,3828009259/Sarah, digital content strategy - brief chat/sent///0/0/
+7485/42318,633900463/Coffee next week?/sent///0/0/
+41352/42324,6232407407/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [SMacmillan@vam.ac.uk]: Recipient address rejected: Access denied
+41352/42324,6238773148/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [SMacmillan@vam.ac.uk]: Recipient address rejected: Access denied
+23126/42305,4140162037/Digital content strategy - brief chat/sent///0/0/
+23126/42318,633912037/Coffee next week?/sent///3/0/
+34061/42319,4556828704/Coffee next week?/sent///0/0/
+34061/42319,456400463/Coffee next week?/sent///0/0/
+38872/42320,5113773148/Coffee next week?/sent///0/0/
+38872/42345,46875/Coffee next week?/sent///0/0/
+38872/42348,3738657407/Coffee next week?/sent///0/0/
+4302/42271,4367824074/Sofia, digital content strategy - brief chat/sent///0/0/
+4302/42318,6339583333/Coffee next week?/sent///0/0/
+14014/42290,3590046296/Digital content strategy - brief chat/sent///0/0/
+14014/42318,6339699074/Coffee next week?/sent///0/0/
+44764/42325,3975347222/Coffee next week?/sent///4/0/
+44764/42345,4704282407/Coffee next week?/sent///3/0/
+24896/42306,4083217593/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.4.1 [Sophia.Lawton@microsoft.com]: Recipient address rejected: Access denied
+24896/42318,6340509259/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Sophia.Lawton@microsoft.com]: Recipient address rejected: Access denied
+46951/42327,4451967593/Coffee next week?/sent///0/0/
+46951/42345,4718171296/Coffee next week?/sent///1/0/
+19721/42299,3623263889/Digital content strategy - brief chat/sent///1/0/
+19721/42318,6340740741/Coffee next week?/sent///1/0/
+17934/42298,3676273148/Digital content strategy - brief chat/sent///0/0/
+17934/42318,6340856481/Coffee next week?/sent///0/0/
+59071/42349,5066319444/Coffee next week?/sent///0/0/
+59071/42349,5124537037/Coffee next week?/sent///0/0/
+19425/42299,362337963/Digital content strategy - brief chat/sent///0/0/
+19425/42318,6340972222/Coffee next week?/sent///0/0/
+2080/42269,6321412037/Suki, digital content strategy - brief chat/sent///0/0/
+2080/42318,6341319444/Coffee next week?/sent///3/0/
+41193/42320,5122685185/Coffee next week?/sent///5/0/
+41193/42345,469224537/Coffee next week?/sent///0/0/
+41193/42348,3746064815/Coffee next week?/sent///0/0/
+46260/42327,4452083333/Coffee next week?/sent///1/0/
+46260/42345,4710648148/Coffee next week?/sent///1/0/
+24822/42306,4086689815/Digital content strategy - brief chat/sent///0/0/
+24822/42318,6341435185/Coffee next week?/sent///0/0/
+43492/42324,6232986111/Coffee next week?/sent///1/0/
+43492/42324,6239236111/Coffee next week?/sent///1/0/
+43492/42349,5066550926/Coffee next week?/sent///1/0/
+43492/42349,5124884259/Coffee next week?/sent///1/0/
+8066/42275,3828009259/Stephen, digital content strategy - brief chat/sent///0/0/
+8066/42305,4144560185/Digital content strategy - brief chat/sent///0/0/
+8066/42318,6341666667/Coffee next week?/sent///0/0/
+31714/42319,4561458333/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Stephen.Lowe@localworld.co.uk]: Recipient address rejected: Access denied
+31714/42319,4567592593/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [Stephen.Lowe@localworld.co.uk]: Recipient address rejected: Access denied
+15357/42292,3854282407/Digital content strategy - brief chat/sent///1/0/
+15357/42318,634224537/Coffee next week?/sent///0/0/
+"44722/42325,3975462963/Coffee next week?/soft-bounced///0/0/X-Notes; Recipient user name Stephen (Stephen@foursea
+ sons.com) not unique.  Several matches found in Domino Directory.
+
+--==IFJRGLKFGIR16446698UHRUHIHD"
+"44722/42345,4702777778/Coffee next week?/soft-bounced///0/0/X-Notes; Recipient user name Stephen (Stephen@foursea
+ sons.com) not unique.  Several matches found in Domino Directory.
+
+--==IFJRGLKFGIR19493398UHRUHIHD"
+5736/42276,3546643518/Steph, digital content strategy - brief chat/sent///0/0/
+5736/42290,3589467593/Digital content strategy - brief chat/sent///0/0/
+5736/42318,6342361111/Coffee next week?/sent///1/0/
+31490/42319,4560648148/Coffee next week?/sent///1/1/
+31490/42319,4566898148/Coffee next week?/sent///0/0/
+19392/42299,362025463/Digital content strategy - brief chat/sent///1/0/
+19392/42318,6342476852/Coffee next week?/sent///2/0/
+18671/42298,3673958333/Digital content strategy - brief chat/sent///0/0/
+18671/42318,6342824074/Coffee next week?/sent///0/0/
+41206/42348,3746527778/Coffee next week?/bounced///0/0/smtp;550 Invalid recipient <Steve.Porter@gpj.com> (#5.1.1)
+37127/42317,426412037/Coffee next week?/sent///5/0/
+21933/42304,4242824074/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+21933/42318,6342939815/Coffee next week?/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+#N/A
+35211/42317,4267013889/Coffee next week?/sent///0/0/
+35211/42345,4676967593/Coffee next week?/sent///0/0/
+19285/42299,362349537/Digital content strategy - brief chat/sent///0/0/
+19285/42318,6343055556/Coffee next week?/sent///1/0/
+7663/42275,3828125/Steven, digital content strategy - brief chat/sent///1/0/
+7663/42318,6343171296/Coffee next week?/sent///3/0/
+44809/42325,3975694444/Coffee next week?/sent///1/0/
+44809/42345,4706134259/Coffee next week?/sent///1/0/
+4310/42271,4367939815/Steven, digital content strategy - brief chat/sent///0/0/
+4310/42318,6343634259/Coffee next week?/sent///0/0/
+43392/42324,623125/Coffee next week?/sent///1/0/
+43392/42324,6237731481/Coffee next week?/sent///1/0/
+43392/42349,5056134259/Coffee next week?/sent///1/0/
+43392/42349,5114930556/Coffee next week?/sent///0/0/
+26055/42311,4876967593/Digital content strategy - brief chat/sent///0/0/
+26055/42345,4664814815/Coffee next week?/sent///0/0/
+37208/42317,4261226852/Coffee next week?/sent///0/0/
+37208/42345,4684606481/Coffee next week?/sent///0/0/
+17409/42296,5118287037/Digital content strategy - brief chat/sent///0/0/
+17409/42318,6345486111/Coffee next week?/sent///0/0/
+22658/42305,4145023148/Digital content strategy - brief chat/sent///0/0/
+22658/42318,6345601852/Coffee next week?/sent///0/0/
+47114/42327,4452199074/Coffee next week?/bounced///0/0/smtp;550 Invalid recipient <Stuart@cafonline.org> (#5.1.1)
+47114/42348,373125/Coffee next week?/bounced///0/0/smtp;550 Invalid recipient <Stuart@cafonline.org> (#5.1.1)
+47105/42327,4452430556/Coffee next week?/sent///4/1/
+47105/42345,4720949074/Coffee next week?/sent///2/0/
+46686/42327,4452546296/Coffee next week?/sent///0/0/
+46686/42345,4713425926/Coffee next week?/sent///0/0/
+41303/42320,5109027777/Coffee next week?/sent///1/0/
+41303/42345,469525463/Coffee next week?/sent///19/0/
+19590/42299,362037037/Digital content strategy - brief chat/sent///0/0/
+19590/42318,6345717593/Coffee next week?/sent///0/0/
+9440/42279,5125347222/Sumeet, digital content strategy - brief chat/sent///17/1/
+54554/42348,3738888889/Coffee next week?/sent///13/0/
+9396/42279,5125/Susan, digital content strategy - brief chat/sent///0/0/
+19728/42299,362349537/Digital content strategy - brief chat/sent///1/0/
+19728/42318,6345833333/Coffee next week?/sent///1/0/
+44701/42325,3975810185/Coffee next week?/sent///0/0/
+44701/42345,4700925926/Coffee next week?/sent///0/0/
+23242/42305,4143634259/Digital content strategy - brief chat/sent///1/0/
+23242/42318,6345949074/Coffee next week?/sent///0/0/
+37217/42317,4264236111/Coffee next week?/sent///4/0/
+37217/42345,4684837963/Coffee next week?/sent///1/1/
+26155/42311,4877083333/Digital content strategy - brief chat/sent///0/0/
+26155/42345,4666087963/Coffee next week?/sent///0/0/
+46813/42327,4452662037/Coffee next week?/sent///1/0/
+46813/42345,4661226852/Coffee next week?/sent///1/0/
+36038/42319,4559490741/Coffee next week?/sent///0/0/
+36038/42319,4566087963/Coffee next week?/sent///0/0/
+35441/42317,4271412037/Coffee next week?/sent///13/1/
+54975/42348,3747685185/Coffee next week?/sent///0/0/
+#N/A
+19483/42299,3620486111/Digital content strategy - brief chat/sent///0/0/
+19483/42318,6346064815/Coffee next week?/sent///10/1/
+15782/42292,3854398148/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.1 User Unknown
+15782/42318,6346296296/Coffee next week?/bounced///0/0/smtp;550 5.1.1 User Unknown
+25959/42310,6198842593/Digital content strategy - brief chat/sent///0/0/
+25959/42345,4664351852/Coffee next week?/sent///0/0/
+9301/42276,3547569444/Tess, digital content strategy - brief chat/sent///0/0/
+9301/42318,6346527778/Coffee next week?/sent///1/0/
+19228/42299,3620601852/Digital content strategy - brief chat/sent///10/1/
+2013/42269,6321527778/Thierry, digital content strategy - brief chat/sent///0/0/
+2013/42290,3590162037/Digital content strategy - brief chat/sent///0/0/
+2013/42318,6346990741/Coffee next week?/sent///0/0/
+46556/42327,4452777778/Coffee next week?/sent///0/0/
+46556/42345,4659259259/Coffee next week?/sent///0/0/
+13299/42297,3567129629/Digital content strategy - brief chat/sent///1/0/
+13299/42318,6347106481/Coffee next week?/sent///1/0/
+15009/42299,3623611111/Digital content strategy - brief chat/sent///0/0/
+15009/42318,6347222222/Coffee next week?/sent///2/0/
+35075/42317,426712963/Coffee next week?/sent///1/0/
+35075/42345,4674189814/Coffee next week?/sent///6/0/
+22677/42305,4143518519/Digital content strategy - brief chat/sent///3/0/
+22677/42318,6347337963/Coffee next week?/sent///1/0/
+44772/42325,3964814815/Coffee next week?/sent///0/0/
+44772/42345,4704513889/Coffee next week?/sent///0/0/
+24786/42306,4086574074/Digital content strategy - brief chat/sent///1/0/
+24786/42318,6347453704/Coffee next week?/sent///11/2/
+4208/42271,4367939815/Tim, digital content strategy - brief chat/sent///1/0/
+4208/42318,6347685185/Coffee next week?/sent///1/0/
+62010/42352,3499884259/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+4149/42271,4368055556/Tim, digital content strategy - brief chat/sent///1/0/
+4149/42318,6347916667/Coffee next week?/sent///1/0/
+62893/42352,3503009259/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+59450/42349,5060763889/Coffee next week?/sent///0/0/
+59450/42349,5119097222/Coffee next week?/sent///0/0/
+41390/42324,6230439815/Coffee next week?/sent///0/0/
+41390/42324,6236805556/Coffee next week?/sent///0/0/
+41390/42348,3750925926/Coffee next week?/sent///0/0/
+4434/42271,4368055556/Tom, digital content strategy - brief chat/sent///11/0/
+47119/42327,4452893519/Coffee next week?/sent///1/0/
+47119/42345,4721180556/Coffee next week?/sent///1/0/
+47119/42348,372974537/Coffee next week?/sent///1/0/
+14580/42291,3785185185/Digital content strategy - brief chat/sent///0/0/
+14580/42318,6348032407/Coffee next week?/sent///0/0/
+14086/42290,3589814815/Digital content strategy - brief chat/sent///0/0/
+14086/42318,6348148148/Coffee next week?/bounced///0/0/smtp;550 Invalid recipient <tom.halls@lta.org.uk> (#5.1.1)
+47048/42327,4453009259/Coffee next week?/sent///0/0/
+47048/42345,4719791667/Coffee next week?/sent///0/0/
+14031/42291,3784606481/Digital content strategy - brief chat/sent///0/0/
+14031/42318,6348263889/Coffee next week?/sent///4/0/
+35085/42317,4271527778/Coffee next week?/sent///0/0/
+35085/42345,4674305556/Coffee next week?/sent///1/0/
+40732/42320,5123032407/Coffee next week?/sent///0/0/
+22682/42305,4143171296/Digital content strategy - brief chat/sent///0/0/
+22682/42318,634849537/Coffee next week?/sent///0/0/
+14360/42291,3786111111/Digital content strategy - brief chat/sent///0/0/
+14360/42318,6349189815/Coffee next week?/sent///0/0/
+53572/42348,373275463/Coffee next week?/sent///3/0/
+62316/42352,3501736111/Content meet early Jan?/sent///0/0/
+9425/42276,3548032407/Tom, digital content strategy - brief chat/sent///2/0/
+9425/42318,6349537037/Coffee next week?/sent///8/0/
+37283/42317,4264236111/Coffee next week?/sent///1/0/
+37283/42345,4686342593/Coffee next week?/sent///1/0/
+26182/42310,6199074074/Digital content strategy - brief chat/bounced///0/0/smtp;550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup
+62686/42352,350474537/Content meet early Jan?/sent///1/0/
+19435/42299,3623726852/Digital content strategy - brief chat/sent///0/0/
+19435/42318,6349768518/Coffee next week?/sent///0/0/
+9090/42279,512037037/Trevor, digital content strategy - brief chat/sent///1/0/
+9090/42306,4080439815/Digital content strategy - brief chat/sent///1/0/
+9090/42318,6349884259/Coffee next week?/sent///8/0/
+37255/42317,4264351852/Coffee next week?/sent///0/0/
+37255/42345,468587963/Coffee next week?/sent///0/0/
+62109/42352,3501157407/Content meet early Jan?/bounced///0/0/smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+33934/42319,4562731481/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+33934/42319,4568634259/Coffee next week?/bounced///0/0/smtp;550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550
+7938/42275,3828125/Umberto, digital content strategy - brief chat/sent///1/0/
+7938/42318,635/Coffee next week?/sent///1/0/
+22650/42304,4244212963/Digital content strategy - brief chat/sent///1/0/
+22650/42318,6350115741/Coffee next week?/sent///1/0/
+37284/42317,4261342593/Coffee next week?/bounced///0/0/smtp; 550 5.1.1 User unknown
+16291/42293,364849537/Digital content strategy - brief chat/sent///0/0/
+16291/42318,6350231481/Coffee next week?/sent///1/0/
+37263/42317,4264583333/Coffee next week?/sent///0/0/
+37263/42345,4686111111/Coffee next week?/sent///0/0/
+9180/42279,5122569444/Varun, digital content strategy - brief chat/sent///0/0/
+9180/42311,4877314815/Digital content strategy - brief chat/sent///0/0/
+9180/42318,6350347222/Coffee next week?/sent///0/0/
+26326/42311,4877430556/Digital content strategy - brief chat/sent///0/0/
+26326/42345,4667824074/Coffee next week?/sent///0/0/
+3914/42271,4368171296/Vedant, digital content strategy - brief chat/sent///0/0/
+3914/42292,3854513889/Digital content strategy - brief chat/sent///1/0/
+15286/42292,385462963/Digital content strategy - brief chat/sent///0/0/
+15286/42318,6350578704/Coffee next week?/sent///0/0/
+13189/42298,3674074074/Digital content strategy - brief chat/sent///0/0/
+13189/42318,6350694444/Coffee next week?/sent///1/0/
+24976/42306,4084953704/Digital content strategy - brief chat/sent///1/0/
+24976/42318,6350925926/Coffee next week?/sent///1/0/
+14423/42291,3783564815/Digital content strategy - brief chat/sent///1/0/
+14423/42318,6351157407/Coffee next week?/sent///2/0/
+34155/42319,4556712963/Coffee next week?/sent///0/0/
+34155/42319,4563888889/Coffee next week?/sent///0/0/
+4571/42271,4368171296/Victoria, digital content strategy - brief chat/sent///3/0/
+4571/42318,635150463/Coffee next week?/sent///1/0/
+62481/42352,3504398148/Content meet early Jan?/sent///0/0/
+33931/42319,4560532407/Coffee next week?/sent///0/0/
+33931/42319,4566782407/Coffee next week?/sent///0/0/
+35177/42317,4271643519/Coffee next week?/sent///0/0/
+19618/42299,3623842593/Digital content strategy - brief chat/sent///0/0/
+9107/42279,5120949074/Virginia, digital content strategy - brief chat/sent///0/0/
+9107/42318,635162037/Coffee next week?/sent///0/0/
+9196/42279,5122916667/Virginie, digital content strategy - brief chat/sent///0/0/
+9196/42305,4142476852/Digital content strategy - brief chat/sent///0/0/
+9196/42318,6351736111/Coffee next week?/sent///0/0/
+54305/42348,3736226852/Coffee next week?/sent///3/1/
+16287/42293,3649189815/Digital content strategy - brief chat/sent///0/0/
+16287/42318,6351851852/Coffee next week?/sent///0/0/
+53618/42348,3735069444/Coffee next week?/sent///0/0/
+47950/42348,3729166667/Coffee next week?/sent///0/0/
+46451/42327,4453125/Coffee next week?/sent///0/0/
+46451/42345,471099537/Coffee next week?/bounced///0/0/smtp;550 5.4.1 [vscheele@fraedom.com]: Recipient address rejected: Access denied
+9129/42279,5121759259/Warren, digital content strategy - brief chat/sent///0/0/
+9129/42311,4877546296/Digital content strategy - brief chat/sent///0/0/
+9129/42318,6351967593/Coffee next week?/sent///1/0/
+46057/42327,4453240741/Coffee next week?/sent///0/0/
+46057/42345,4708564815/Coffee next week?/sent///0/0/
+44623/42325,3976041667/Coffee next week?/sent///2/0/
+44623/42345,4697453704/Coffee next week?/sent///5/0/
+"4114/42271,4368287037/Chris, digital content strategy - brief chat/soft-bounced///0/0/smtp;550 5.2.0 STOREDRV.Deliver: The Microsoft Exchange Information Store service reported an error. The following information should help identify the cause of this error: ""MapiExceptionNotAuthorized:16.18969:4B1D0000, 17.27161:0000000052020000000000001F00000000000000, 255.23226:00000000, 255.27962:0A000000, 255.27962:0E000000, 255.27962:0A000000, 255.27962:94000000, 255.17082:D6040000, 0.27745:02400080, 4.21921:D6040000, 255.27962:FA000000, 255.1494:2C000000, 255.1238:2F400000, 4.7716:0F010480, 0.49833:0F010480, 0.40657:0F010480, 4.6099:0F010480, 0.17692:0F010480, 4.5587:0F010480, 0.65193:0F010480, 6.21970:0F0104800B00F4650F010480, 6.21970:0F0104800B0097660F010480, 6.21970:0F010480B084A7660F010480, 4.31473:0F010480, 0.21097:0F010480, 4.8756:BFF9FFFF, 2.17597:00000000, 2.22787:00000000, 4.13032:0F010480, 2.22787:00000000, 4.13032:0F010480, 4.4580:05000780, 4.4408:05000780, 4.7637:D8040000, 4.5093:D6040000, 4.5318:D6040000, 4.10104:D6040000, 0.57449:80030400, 4.6025:
+ 05000780, 4.5257:05000780, 4.4606:D6040000, 255.1750:00000000, 0.26849:2B0A0000, 255.21817:D6040000""."
+"4114/42318,6352430556/Coffee next week?/soft-bounced///0/0/smtp;550 5.2.0 STOREDRV.Deliver: The Microsoft Exchange Information Store service reported an error. The following information should help identify the cause of this error: ""MapiExceptionNotAuthorized:16.18969:65220000, 17.27161:0000000052020000000000002E00000000000000, 255.23226:00000000, 255.27962:0A000000, 255.27962:0E000000, 255.27962:0A000000, 255.27962:94000000, 255.17082:D6040000, 0.27745:02400080, 4.21921:D6040000, 255.27962:FA000000, 255.1494:7A1D0000, 255.1238:00000000, 4.7716:0F010480, 0.49833:0F010480, 0.40657:0F010480, 4.6099:0F010480, 0.17692:01000000, 4.5587:0F010480, 0.65193:0F010480, 6.21970:0F0104800B00F465EC030000, 6.21970:0F0104800B0097660F010480, 6.21970:0F010480B084A7660F010480, 4.31473:0F010480, 0.21097:0F010480, 4.8756:BFF9FFFF, 2.17597:00000000, 2.22787:00000000, 4.13032:0F010480, 2.22787:00000000, 4.13032:0F010480, 4.4580:05000780, 4.4408:05000780, 4.7637:D8040000, 4.5093:D6040000, 4.5318:D6040000, 4.10104:D6040000, 0.57449:05000780, 4.6025:
+ 05000780, 4.5257:05000780, 4.4606:D6040000, 255.1750:71040000, 0.26849:71040000, 255.21817:D6040000""."
+41227/42320,5109259259/Coffee next week?/sent///0/0/
+41227/42345,4692592593/Coffee next week?/sent///0/0/
+41227/42348,3747453704/Coffee next week?/sent///0/0/
+44613/42325,3976157407/Coffee next week?/sent///2/0/
+44613/42345,4696875/Coffee next week?/sent///0/0/
+14073/42291,3786342593/Digital content strategy - brief chat/sent///1/2/
+14073/42318,6352777778/Coffee next week?/sent///5/0/
+43480/42324,6232175926/Coffee next week?/sent///1/0/
+43480/42324,6238541667/Coffee next week?/sent///0/0/
+43480/42349,5056481482/Coffee next week?/sent///0/0/
+43480/42349,5115162037/Coffee next week?/sent///0/0/
+22201/42304,4244328704/Digital content strategy - brief chat/sent///6/2/
+22201/42318,6352893518/Coffee next week?/sent///0/0/
+2157/42269,6321759259/Yigit, digital content strategy - brief chat/sent///0/0/
+2157/42318,6353125/Coffee next week?/sent///0/0/
+17566/42297,3568402778/Digital content strategy - brief chat/sent///12/0/
+17566/42318,6353356481/Coffee next week?/sent///16/0/
+14298/42290,3589930556/Digital content strategy - brief chat/sent///1/2/
+14298/42318,6353472222/Coffee next week?/sent///3/0/
+44714/42325,3976273148/Coffee next week?/sent///0/0/
+44714/42345,4702199074/Coffee next week?/sent///1/0/
+44712/42325,3969560185/Coffee next week?/sent///0/0/
+44712/42345,4702083333/Coffee next week?/sent///0/0/
+9433/42276,3548148148/Steve, digital content strategy - brief chat/sent///4/1/
+9433/42318,6353587963/Coffee next week?/sent///1/0/
+46933/42327,4453472222/Coffee next week?/bounced///0/0/smtp;550 Invalid recipient <Zarina.Sahni@euromoneyplc.com> (#5.1.1)
+34148/42319,4557523148/Coffee next week?/sent///0/0/
+34148/42319,4564467593/Coffee next week?/sent///0/0/
+25218/42317,4271759259/Coffee next week?/sent///0/0/
+25218/42345,4679861111/Coffee next week?/sent///0/0/
+41096/42320,5123148148/Coffee next week?/sent///1/0/
+41096/42345,4691203704/Coffee next week?/sent///1/0/
+41096/42348,3745023148/Coffee next week?/sent///1/0/
+41335/42324,6233101852/Coffee next week?/sent///0/0/
+41335/42324,6239351852/Coffee next week?/sent///2/0/
+41335/42349,5066666667/Coffee next week?/sent///0/0/
+41335/42349,5125/Coffee next week?/sent///0/0/

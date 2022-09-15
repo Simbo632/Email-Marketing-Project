@@ -1,0 +1,22 @@
+Please provide answers to the following questions:
+
+(1)   Based on the prospect data file, which 5 industries appears most frequently? (Clustered bar chart-visual)
+
+(2)   How many prospects have we successfully contacted in total? (Card visual)
+
+(3)   How many prospects have we unsuccessfully attempted to contact (I.e. Email delivery data, Column "Status" = bounced)
+
+(4)   What was the most common reason for message bounce?  (Email delivery data, Column "Bounce detail")
+
+(5)   How many prospects have opened our prospecting email more than 5 times?
+
+(6)   Hourly/Daily performance.  We are very interested to learn which hour of the day is the best time to send an email and and which day of the week is the best day to send an email.
+
+(6.a)  Please calculate by hour of the day/week of the day, total emails sent, opened and clicked.  Totals and percentages.  Please then create a report called Hourly Performance / Daily Performance and present the results in a Power BI report, linking to the data.
+
+(6.c)  We need to understand the percentage open rates and click rates in order to better schedule our activity.  If we had to choose the best hour/day to send emails based on open rates, which hour/day should we choose?
+
+
+You should use Industry and Month as a report filters.
+
+Please send the final project results to the trainers email in pbix file.
